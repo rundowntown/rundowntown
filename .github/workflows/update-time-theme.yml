@@ -1,14 +1,11 @@
-# THIS WORKFLOW IS DISABLED
-# To enable: uncomment the schedule section below
-
 name: Update Time-Based Western Theme
 
 on:
-  # DISABLED - Uncomment to enable automatic updates every 2 hours
-  # schedule:
-  #   - cron: '0 */2 * * *'
+  schedule:
+    # Runs every 2 hours
+    - cron: '0 */2 * * *'
   
-  workflow_dispatch: # Manual trigger only
+  workflow_dispatch: # Can also trigger manually
 
 permissions:
   contents: write
