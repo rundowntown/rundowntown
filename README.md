@@ -7,26 +7,16 @@
 
 <!-- TIME_THEME_START -->
 
-<<<<<<< HEAD
-![Late Afternoon Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF7F00,100:DAA520&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc=Heat's%20High.%20Keep%20Ridin'.&descSize=28&descAlignY=65&animation=twinkling)
-=======
-![Morning Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,50:FFB347,100:FDD835&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc=Boots%20Down.%20Build%20Up.&descSize=28&descAlignY=65&animation=scaleIn)
->>>>>>> fa982f194bf4a59d0d88e63fca9cdf4b62d497db
+![Morning Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,50:FFB347,100:FDD835&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc=The%20Trail%20Calls.%20We%20Answer.&descSize=28&descAlignY=65&animation=scaleIn)
 
 <div align="center">
 
 ![Time Badge](https://img.shields.io/badge/☕_MORNING-Trail_Starts-FFA500?style=for-the-badge&labelColor=8B4513)
 ![Current Time](https://img.shields.io/badge/⏰_Time-7am--10am-FFB347?style=for-the-badge&labelColor=A0522D)
 
-<<<<<<< HEAD
-### *The Long Ride Tests All*
-
-☀️ Sun's blazin' overhead • 🌵 Peak heat • ⚡ High stakes
-=======
 ### *Coffee's hot, horses saddled, let's ride*
 
 ☕ Fresh brew ready • 🏜️ Trail's callin' • 🐎 Saddle up time
->>>>>>> fa982f194bf4a59d0d88e63fca9cdf4b62d497db
 
 </div>
 
@@ -60,7 +50,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:forcade.analytics@gmail.com)
 
 <!-- FOOTER_WAVE_START -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF7F00,100:DAA520&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,50:FFB347,100:FDD835&height=120&section=footer)
 <!-- FOOTER_WAVE_END -->
 
 </div>
