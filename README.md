@@ -7,6 +7,80 @@
 
 ![Wave Overlay](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:D2691E,100:DEB887&height=250&section=header&text=rundowntown&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&reversal=false&animation=scaleIn)
 
+---
+
+## 🎨 TESTING ALL BANNER STYLES - Pick Your Favorite!
+
+### 1️⃣ WAVING (Current)
+![Waving](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:D2691E,100:DEB887&height=250&section=header&text=rundowntown&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=scaleIn)
+
+### 2️⃣ CYLINDER (3D Barrel)
+![Cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=0:8B4513,50:D2691E,100:DEB887&height=250&section=header&text=rundowntown&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=2&fontAlignY=50&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=70&animation=fadeIn)
+
+### 3️⃣ SHARK (Sharp Angular)
+![Shark](https://capsule-render.vercel.app/api?type=shark&color=0:8B4513,50:D2691E,100:DEB887&height=250&text=rundowntown&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=2&fontAlignY=50&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=70&animation=scaleIn)
+
+### 4️⃣ VENOM (Spiky Outlaw)
+![Venom](https://capsule-render.vercel.app/api?type=venom&color=0:8B4513,50:D2691E,100:DEB887&height=280&text=rundowntown&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=2&desc=Code.%20Create.%20Conquer.&descSize=28&animation=twinkling)
+
+### 5️⃣ SLICE (Diagonal)
+![Slice](https://capsule-render.vercel.app/api?type=slice&color=0:8B4513,50:D2691E,100:DEB887&height=250&text=rundowntown&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=fadeIn)
+
+### 6️⃣ SOFT (Gentle Curves)
+![Soft](https://capsule-render.vercel.app/api?type=soft&color=0:8B4513,50:D2691E,100:DEB887&height=250&section=header&text=rundowntown&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=scaleIn)
+
+### 7️⃣ ROUNDED (Rounded Corners)
+![Rounded](https://capsule-render.vercel.app/api?type=rounded&color=0:8B4513,50:D2691E,100:DEB887&height=250&text=rundowntown&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=fadeIn)
+
+### 8️⃣ RECT (Simple Rectangle)
+![Rect](https://capsule-render.vercel.app/api?type=rect&color=0:8B4513,50:D2691E,100:DEB887&height=250&text=rundowntown&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=twinkling)
+
+### 9️⃣ TRANSPARENT (No Background)
+![Transparent](https://capsule-render.vercel.app/api?type=transparent&color=0:8B4513,50:D2691E,100:DEB887&height=250&text=rundowntown&fontSize=90&fontColor=8B4513&stroke=DEB887&strokeWidth=3&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&descColor=D2691E)
+
+### 🔟 TIME GRADIENT (Changes by Time of Day!)
+![Time Gradient](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=scaleIn)
+
+---
+
+## 🌅 WESTERN TIME-OF-DAY THEMES (Your Custom Colors!)
+
+### ☀️ DAWN - Early Morning (Orange/Pink Sunrise)
+![Dawn](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7931E,100:FDC830&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=fadeIn)
+
+### ☀️ HIGH NOON - Midday (Bright Desert Gold)
+![High Noon](https://capsule-render.vercel.app/api?type=waving&color=0:DEB887,50:DAA520,100:FFD700&height=250&section=header&text=rundowntown&fontSize=90&fontColor=8B4513&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=scaleIn)
+
+### 🌄 DUSK - Evening (Deep Orange/Brown Sunset)
+![Dusk](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:D2691E,100:DEB887&height=250&section=header&text=rundowntown&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=scaleIn)
+
+### 🌙 MIDNIGHT - Night (Dark Gray/Brown)
+![Midnight](https://capsule-render.vercel.app/api?type=waving&color=0:2F4F4F,50:696969,100:8B4513&height=250&section=header&text=rundowntown&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=3&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=twinkling)
+
+### 🔥 CAMPFIRE - Warm Orange Glow
+![Campfire](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:FF4500,100:FF6347&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFAF0&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=twinkling)
+
+### 🏜️ DUSTY TRAIL - Brown/Tan Desert
+![Dusty Trail](https://capsule-render.vercel.app/api?type=waving&color=0:A0522D,50:CD853F,100:DEB887&height=250&section=header&text=rundowntown&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=scaleIn)
+
+### 1️⃣1️⃣ RANDOM (Different Every Visit!)
+![Random](https://capsule-render.vercel.app/api?type=waving&color=random&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=fadeIn)
+
+### 1️⃣2️⃣ IMPACT FONT
+![Impact Font](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:D2691E,100:DEB887&height=250&section=header&text=rundowntown&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=3&fontType=impact&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=scaleIn)
+
+### 1️⃣3️⃣ DARK OUTLAW
+![Dark Outlaw](https://capsule-render.vercel.app/api?type=venom&color=0:2F4F4F,50:696969,100:8B4513&height=280&text=rundowntown&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=3&desc=Code.%20Create.%20Conquer.&descSize=28&descColor=CD853F&animation=twinkling)
+
+### 1️⃣4️⃣ DESERT SUNSET
+![Desert Sunset](https://capsule-render.vercel.app/api?type=soft&color=0:FF6B35,50:F7931E,100:FDC830&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=3&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=fadeIn)
+
+---
+
+## 👆 PICK YOUR FAVORITE NUMBER AND LET ME KNOW! 👆
+
+---
+
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=650&height=100&lines=Developer+%7C+Builder+%7C+Problem+Solver;Crafting+Code+in+the+Digital+Frontier;Riding+Through+Bugs+Like+a+Pro)](https://git.io/typing-svg)
