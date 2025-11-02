@@ -23,7 +23,7 @@
 <!-- TIME_THEME_END -->
 
 <!-- DIVIDER_1_START -->
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB347,100:FDD835&height=2)
+![Animated Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 <!-- DIVIDER_1_END -->
 
 <div align="center">
@@ -35,7 +35,7 @@
 </div>
 
 <!-- DIVIDER_2_START -->
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB347,100:FDD835&height=2)
+![Animated Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)
 <!-- DIVIDER_2_END -->
 
 <div align="center">
@@ -45,7 +45,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:forcade.analytics@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rundowntown&color=cd853f&style=flat-square&label=Trail+Visitors)
-![Commits](https://img.shields.io/github/commit-activity/t/rundowntown/rundowntown?style=flat-square&color=8B4513&labelColor=2F4F4F&label=Rides+Logged&logo=git)
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rundowntown&query=$.public_repos&style=flat-square&color=DAA520&labelColor=2F4F4F&label=Camps+Built&logo=github)
 
 <!-- FOOTER_WAVE_START -->
