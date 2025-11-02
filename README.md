@@ -1,20 +1,10 @@
-<!-- Western/Cowboy Theme - Layered Cowboys Image + Animated Wave -->
-<div align="center">
-
-![Cowboys Banner](./cowboys.jpg)
-
-</div>
-
 <!-- TIME_THEME_START -->
-
-### 🔥 LATE AFTERNOON (1pm - 5pm)
 
 ![Late Afternoon Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF7F00,100:DAA520&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=twinkling)
 
 <div align="center">
 
 ![Time Badge](https://img.shields.io/badge/🔥_LATE_AFTERNOON-Hottest_Hours-FF8C00?style=for-the-badge&labelColor=8B4513)
-![Current Time](https://img.shields.io/badge/⏰_Time-1pm--5pm-DAA520?style=for-the-badge&labelColor=654321)
 
 ### *Draw fast, aim true*
 
@@ -40,7 +30,9 @@
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2F4F4F,50:8B4513,100:D2691E&height=120&section=footer)
+<!-- FOOTER_WAVE_START -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF7F00,100:DAA520&height=120&section=footer)
+<!-- FOOTER_WAVE_END -->
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rundowntown)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)

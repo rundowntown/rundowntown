@@ -11,7 +11,6 @@ This file contains all 9 time-of-day themes for reference. The automation will c
 <div align="center">
 
 ![Time Badge](https://img.shields.io/badge/🌅_SUNRISE-First_Light-FF6347?style=for-the-badge&labelColor=8B4513)
-![Current Time](https://img.shields.io/badge/⏰_Time-5am--7am-FFD700?style=for-the-badge&labelColor=D2691E)
 
 ### *First light breaks, another day to ride*
 
@@ -28,7 +27,6 @@ This file contains all 9 time-of-day themes for reference. The automation will c
 <div align="center">
 
 ![Time Badge](https://img.shields.io/badge/☕_MORNING-Trail_Starts-FFA500?style=for-the-badge&labelColor=8B4513)
-![Current Time](https://img.shields.io/badge/⏰_Time-7am--10am-FFB347?style=for-the-badge&labelColor=A0522D)
 
 ### *Coffee's hot, horses saddled, let's ride*
 
@@ -45,7 +43,6 @@ This file contains all 9 time-of-day themes for reference. The automation will c
 <div align="center">
 
 ![Time Badge](https://img.shields.io/badge/☀️_MIDDAY-Sun's_Risin'-FFD700?style=for-the-badge&labelColor=8B4513)
-![Current Time](https://img.shields.io/badge/⏰_Time-10am--1pm-FFC107?style=for-the-badge&labelColor=654321)
 
 ### *Sun climbs high, desert heat begins*
 
@@ -62,7 +59,6 @@ This file contains all 9 time-of-day themes for reference. The automation will c
 <div align="center">
 
 ![Time Badge](https://img.shields.io/badge/🔥_LATE_AFTERNOON-Hottest_Hours-FF8C00?style=for-the-badge&labelColor=8B4513)
-![Current Time](https://img.shields.io/badge/⏰_Time-1pm--5pm-DAA520?style=for-the-badge&labelColor=654321)
 
 ### *Draw fast, aim true*
 
@@ -79,7 +75,6 @@ This file contains all 9 time-of-day themes for reference. The automation will c
 <div align="center">
 
 ![Time Badge](https://img.shields.io/badge/🌇_SUNSET-Golden_Hour-FF4500?style=for-the-badge&labelColor=8B4513)
-![Current Time](https://img.shields.io/badge/⏰_Time-5pm--7pm-FF6347?style=for-the-badge&labelColor=A0522D)
 
 ### *Sky's burnin' red, another day conquered*
 
@@ -96,7 +91,6 @@ This file contains all 9 time-of-day themes for reference. The automation will c
 <div align="center">
 
 ![Time Badge](https://img.shields.io/badge/🌆_DUSK-Day's_End-A0522D?style=for-the-badge&labelColor=654321)
-![Current Time](https://img.shields.io/badge/⏰_Time-7pm--9pm-CD853F?style=for-the-badge&labelColor=8B4513)
 
 ### *Headin' home before dark*
 
@@ -113,7 +107,6 @@ This file contains all 9 time-of-day themes for reference. The automation will c
 <div align="center">
 
 ![Time Badge](https://img.shields.io/badge/🌙_MIDNIGHT-Deep_Night-2F4F4F?style=for-the-badge&labelColor=1C1C1C)
-![Current Time](https://img.shields.io/badge/⏰_Time-9pm--12am-696969?style=for-the-badge&labelColor=000000)
 
 ### *The night's dark, but the stars guide true*
 
@@ -130,7 +123,6 @@ This file contains all 9 time-of-day themes for reference. The automation will c
 <div align="center">
 
 ![Time Badge](https://img.shields.io/badge/🌌_LATE_NIGHT-Dead_of_Night-191970?style=for-the-badge&labelColor=000000)
-![Current Time](https://img.shields.io/badge/⏰_Time-12am--3am-2F4F4F?style=for-the-badge&labelColor=0C0C0C)
 
 ### *Only the coyotes and night riders awake*
 
@@ -147,7 +139,6 @@ This file contains all 9 time-of-day themes for reference. The automation will c
 <div align="center">
 
 ![Time Badge](https://img.shields.io/badge/🌃_PRE--DAWN-Before_the_Light-483D8B?style=for-the-badge&labelColor=191970)
-![Current Time](https://img.shields.io/badge/⏰_Time-3am--5am-6A5ACD?style=for-the-badge&labelColor=2F2F4F)
 
 ### *The quietest hour, dawn's just a promise*
 
