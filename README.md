@@ -7,30 +7,18 @@
 
 <!-- TIME_THEME_START -->
 
-<<<<<<< HEAD
-### 🔥 LATE AFTERNOON (1pm - 5pm)
+### 🌅 SUNRISE (5am - 7am)
 
-![Late Afternoon Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF7F00,100:DAA520&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=twinkling)
-
-<div align="center">
-
-![Time Badge](https://img.shields.io/badge/🔥_LATE_AFTERNOON-Hottest_Hours-FF8C00?style=for-the-badge&labelColor=8B4513)
-![Current Time](https://img.shields.io/badge/⏰_Time-1pm--5pm-DAA520?style=for-the-badge&labelColor=654321)
-
-### *Draw fast, aim true*
-
-☀️ Sun's blazin' overhead • 🌵 Peak heat • ⚡ High stakes
-=======
 ![Sunrise Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FF6347,100:FFD700&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=fadeIn)
 
 <div align="center">
 
 ![Time Badge](https://img.shields.io/badge/🌅_SUNRISE-First_Light-FF6347?style=for-the-badge&labelColor=8B4513)
+![Current Time](https://img.shields.io/badge/⏰_Time-5am--7am-FFD700?style=for-the-badge&labelColor=D2691E)
 
 ### *First light breaks, another day to ride*
 
 🌄 Dawn's first glow • 🐓 Rooster's callin' • ⛺ Camp's stirrin' to life
->>>>>>> b8b702e2a9d40e7b163fcde66b5183332f0c2dda
 
 </div>
 
