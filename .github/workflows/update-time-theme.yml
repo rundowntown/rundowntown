@@ -34,18 +34,79 @@ jobs:
           import re
           from datetime import datetime
           import pytz
+          import random
+          import urllib.parse
 
           # Get current EST/EDT hour (Eastern Time)
           eastern = pytz.timezone('US/Eastern')
           current_time = datetime.now(eastern)
           current_hour = current_time.hour
           
+          # Define tagline options for each time period
+          taglines = {
+              "SUNRISE": [
+                  "Rise. Ride. Build.",
+                  "Wake. Code. Roam.",
+                  "Trail Starts Here.",
+                  "New Day. New Lines.",
+                  "Forge the Path Ahead."
+              ],
+              "MORNING": [
+                  "Saddle Up. Ship Out.",
+                  "Ride Hard. Code Clean.",
+                  "Coffee. Code. Carry On.",
+                  "Boots Down. Build Up."
+              ],
+              "MIDDAY": [
+                  "Keep Ridin'. Keep Buildin'.",
+                  "Heat. Hustle. Handle It.",
+                  "Full Sun. Full Throttle.",
+                  "Push the Frontier."
+              ],
+              "LATE_AFTERNOON": [
+                  "Draw Fast. Ship True.",
+                  "Test Your Mettle.",
+                  "Code Under Fire.",
+                  "Noon's Heat. Hard Work."
+              ],
+              "SUNSET": [
+                  "Build. Reflect. Repeat.",
+                  "Day's Done. Code Won.",
+                  "Ride Home Victorious.",
+                  "Golden Hour Glory."
+              ],
+              "DUSK": [
+                  "Lights Low. Logs High.",
+                  "Campfire & Commits.",
+                  "Stories Shared. Code Saved.",
+                  "Rest Easy. Ride Tomorrow."
+              ],
+              "MIDNIGHT": [
+                  "Stars Above. Ideas Below.",
+                  "Quiet Hours. Loud Thoughts.",
+                  "Code by Starlight.",
+                  "Midnight Minds at Work."
+              ],
+              "LATE_NIGHT": [
+                  "Stillness Breeds Brilliance.",
+                  "The Night Writes Code.",
+                  "Only Coyotes and Coders Awake.",
+                  "Keep the Fire Burnin'."
+              ],
+              "EARLY_MORNING": [
+                  "Before the Light, We Build.",
+                  "Dream. Wake. Deploy.",
+                  "Last Watch of the Night.",
+                  "Code 'til Dawn."
+              ]
+          }
+          
           # Define all 9 themes with matching footer waves
           themes = {
               "SUNRISE": {
                   "hours": range(5, 7),
                   "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FF6347,100:FFD700&height=120&section=footer)",
-                  "content": '''![Sunrise Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FF6347,100:FFD700&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=fadeIn)
+                  "content_template": '''![Sunrise Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FF6347,100:FFD700&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc={tagline}&descSize=28&descAlignY=65&animation=fadeIn)
 
           <div align="center">
 
@@ -61,7 +122,7 @@ jobs:
               "MORNING": {
                   "hours": range(7, 10),
                   "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,50:FFB347,100:FDD835&height=120&section=footer)",
-                  "content": '''![Morning Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,50:FFB347,100:FDD835&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=scaleIn)
+                  "content_template": '''![Morning Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,50:FFB347,100:FDD835&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc={tagline}&descSize=28&descAlignY=65&animation=scaleIn)
 
           <div align="center">
 
@@ -77,7 +138,7 @@ jobs:
               "MIDDAY": {
                   "hours": range(10, 13),
                   "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFC107,100:FFEB3B&height=120&section=footer)",
-                  "content": '''![Midday Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFC107,100:FFEB3B&height=250&section=header&text=rundowntown&fontSize=90&fontColor=8B4513&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=scaleIn)
+                  "content_template": '''![Midday Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFC107,100:FFEB3B&height=250&section=header&text=rundowntown&fontSize=90&fontColor=8B4513&stroke=000000&strokeWidth=2&fontAlignY=45&desc={tagline}&descSize=28&descAlignY=65&animation=scaleIn)
 
           <div align="center">
 
@@ -93,7 +154,7 @@ jobs:
               "LATE_AFTERNOON": {
                   "hours": range(13, 17),
                   "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF7F00,100:DAA520&height=120&section=footer)",
-                  "content": '''![Late Afternoon Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF7F00,100:DAA520&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=twinkling)
+                  "content_template": '''![Late Afternoon Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF7F00,100:DAA520&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc={tagline}&descSize=28&descAlignY=65&animation=twinkling)
 
           <div align="center">
 
@@ -109,7 +170,7 @@ jobs:
               "SUNSET": {
                   "hours": range(17, 19),
                   "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF6347,100:FF8C69&height=120&section=footer)",
-                  "content": '''![Evening Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF6347,100:FF8C69&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=fadeIn)
+                  "content_template": '''![Evening Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF6347,100:FF8C69&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc={tagline}&descSize=28&descAlignY=65&animation=fadeIn)
 
           <div align="center">
 
@@ -125,7 +186,7 @@ jobs:
               "DUSK": {
                   "hours": range(19, 21),
                   "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=120&section=footer)",
-                  "content": '''![Dusk Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=250&section=header&text=rundowntown&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=scaleIn)
+                  "content_template": '''![Dusk Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=250&section=header&text=rundowntown&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=2&fontAlignY=45&desc={tagline}&descSize=28&descAlignY=65&animation=scaleIn)
 
           <div align="center">
 
@@ -141,7 +202,7 @@ jobs:
               "MIDNIGHT": {
                   "hours": range(21, 24),
                   "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=120&section=footer)",
-                  "content": '''![Midnight Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=250&section=header&text=rundowntown&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=3&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=twinkling)
+                  "content_template": '''![Midnight Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=250&section=header&text=rundowntown&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=3&fontAlignY=45&desc={tagline}&descSize=28&descAlignY=65&animation=twinkling)
 
           <div align="center">
 
@@ -157,7 +218,7 @@ jobs:
               "LATE_NIGHT": {
                   "hours": range(0, 3),
                   "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:2F4F4F&height=120&section=footer)",
-                  "content": '''![Late Night Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:2F4F4F&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=4169E1&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=twinkling)
+                  "content_template": '''![Late Night Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:2F4F4F&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=4169E1&strokeWidth=2&fontAlignY=45&desc={tagline}&descSize=28&descAlignY=65&animation=twinkling)
 
           <div align="center">
 
@@ -173,7 +234,7 @@ jobs:
               "EARLY_MORNING": {
                   "hours": range(3, 5),
                   "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:6A5ACD&height=120&section=footer)",
-                  "content": '''![Early Morning Banner](https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:6A5ACD&height=250&section=header&text=rundowntown&fontSize=90&fontColor=E6E6FA&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=fadeIn)
+                  "content_template": '''![Early Morning Banner](https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:6A5ACD&height=250&section=header&text=rundowntown&fontSize=90&fontColor=E6E6FA&stroke=000000&strokeWidth=2&fontAlignY=45&desc={tagline}&descSize=28&descAlignY=65&animation=fadeIn)
 
           <div align="center">
 
@@ -188,14 +249,23 @@ jobs:
               }
           }
           
-          # Determine current theme
-          current_theme = None
-          current_footer = None
+          # Determine current theme and select random tagline
+          current_theme_name = None
+          current_theme_data = None
+          
           for theme_name, theme_data in themes.items():
               if current_hour in theme_data["hours"]:
-                  current_theme = theme_data["content"]
-                  current_footer = theme_data["footer"]
+                  current_theme_name = theme_name
+                  current_theme_data = theme_data
                   break
+          
+          # Get random tagline for this time period
+          random_tagline = random.choice(taglines[current_theme_name])
+          encoded_tagline = urllib.parse.quote(random_tagline)
+          
+          # Build the content with the random tagline
+          current_theme = current_theme_data["content_template"].format(tagline=encoded_tagline)
+          current_footer = current_theme_data["footer"]
           
           # Read README
           with open('README.md', 'r', encoding='utf-8') as f:
@@ -215,13 +285,20 @@ jobs:
           with open('README.md', 'w', encoding='utf-8') as f:
               f.write(updated_content)
           
-          print(f"✅ Updated theme for hour: {current_hour} EST/EDT ({current_time.strftime('%I:%M %p %Z')})")
+          print(f"✅ Updated theme: {current_theme_name} at {current_time.strftime('%I:%M %p %Z')}")
+          print(f"🎲 Random tagline selected: '{random_tagline}'")
           EOF
+          
+      - name: Get theme info for commit
+        id: theme_info
+        run: |
+          THEME=$(grep -oP '(?<=Updated theme: )\w+' <<< "${{ steps.update.outputs.log }}" || echo "UNKNOWN")
+          echo "theme=$THEME" >> $GITHUB_OUTPUT
           
       - name: Commit and push if changed
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤠 Auto-update: Western time theme" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤠 Auto-update: Western theme" && git push)
 
