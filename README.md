@@ -18,14 +18,18 @@
 
 <div align="center">
 
-![Time Badge](https://img.shields.io/badge/🌅_DAWN-Rise_and_Code-FF6B35?style=for-the-badge&labelColor=8B4513)
+![Time Badge](https://img.shields.io/badge/🌅_DAWN-Rise_and_Ride-FF6B35?style=for-the-badge&labelColor=8B4513)
 ![Current Time](https://img.shields.io/badge/⏰_Local_Time-Morning-FDC830?style=for-the-badge&labelColor=D2691E)
 
-### *"The early coder catches the bug"* 🐛
+### *"Rise and shine, partner - the frontier awaits"* 🌅
 
-🌅 Another day, another deploy  
-☕ Fresh coffee brewing  
-🏜️ Desert sunrise vibes  
+```
+         .  :  .               
+    .  .    :    .  .          ☕ Fresh pot on the fire
+      \ : /                    🏜️ Trail opens at first light
+   `. .'*`. .'                 
+jgs `*.*.*.'                   ⛺ Breaking camp
+```
 
 ![Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)
 
@@ -39,14 +43,19 @@
 
 <div align="center">
 
-![Time Badge](https://img.shields.io/badge/☀️_HIGH_NOON-It's_High_Noon-FFD700?style=for-the-badge&labelColor=8B4513)
+![Time Badge](https://img.shields.io/badge/☀️_HIGH_NOON-Showdown_Time-FFD700?style=for-the-badge&labelColor=8B4513)
 ![Current Time](https://img.shields.io/badge/⏰_Local_Time-Afternoon-DAA520?style=for-the-badge&labelColor=654321)
 
-### *"Draw your keyboard, partner"* 🤠
+### *"This town ain't big enough for bugs"* 🤠
 
-☀️ FULL POWER MODE  
-🌵 Peak productivity hours  
-⚡ Maximum focus activated  
+```
+              .
+             /_\                ☀️ Sun's high, aim's steady
+            // \\               
+           //   \\              🌵 High noon showdown
+          //_____\\             
+         //       \\            ⚡ Fast as lightning
+```
 
 ![Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
@@ -60,14 +69,18 @@
 
 <div align="center">
 
-![Time Badge](https://img.shields.io/badge/🌄_DUSK-Golden_Hour-D2691E?style=for-the-badge&labelColor=8B4513)
+![Time Badge](https://img.shields.io/badge/🌄_DUSK-Headin'_Home-D2691E?style=for-the-badge&labelColor=8B4513)
 ![Current Time](https://img.shields.io/badge/⏰_Local_Time-Evening-CD853F?style=for-the-badge&labelColor=654321)
 
-### *"Riding into the sunset with clean code"* 🌅
+### *"Headin' home before dark"* 🌅
 
-🌄 Golden hour coding  
-🐎 Wrapping up the day  
-✅ Commits pushed successfully  
+```
+      ___                      🌄 Sun's settin' low
+     ( _ )                     
+  ___| | |___                  🐎 Saddle up for home
+ |___|   |___|                 
+     |___|                     ✅ Day's work done right
+```
 
 ![Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
@@ -81,14 +94,19 @@
 
 <div align="center">
 
-![Time Badge](https://img.shields.io/badge/🌙_MIDNIGHT-Night_Owl_Coding-4A4A4A?style=for-the-badge&labelColor=2F2F2F)
-![Current Time](https://img.shields.io/badge/⏰_Local_Time-Night-696969?style=for-the-badge&labelColor=1C1C1C)
+![Time Badge](https://img.shields.io/badge/🌙_MIDNIGHT-Night_Watch-4A4A4A?style=for-the-badge&labelColor=2F2F2F)
+![Current Time](https://img.shields.io/badge/⏰_Local_Time-Late_Night-696969?style=for-the-badge&labelColor=1C1C1C)
 
-### *"The code is darkest before the deploy"* 🦉
+### *"The night's dark, but the stars guide true"* 🦉
 
-✨ Night mode: ACTIVATED  
-🔥 Coffee levels: MAXIMUM  
-⭐ Debugging by starlight  
+```
+    *    .  *    .             
+  .   🌙    *  .               ✨ Campfire burnin' bright
+ *  .    *    .    *           
+      | | |                    🔥 Coffee pot's on
+     (_____)                   ⭐ Stars showin' the way
+      |   |                    
+```
 
 ![Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -102,14 +120,19 @@
 
 <div align="center">
 
-![Time Badge](https://img.shields.io/badge/🔥_CAMPFIRE-Gathering_Round-FF4500?style=for-the-badge&labelColor=8B4513)
-![Status](https://img.shields.io/badge/Status-Storytelling_Mode-FF6347?style=for-the-badge&labelColor=654321)
+![Time Badge](https://img.shields.io/badge/🔥_CAMPFIRE-Story_Time-FF4500?style=for-the-badge&labelColor=8B4513)
+![Status](https://img.shields.io/badge/Status-Sharin'_Tales-FF6347?style=for-the-badge&labelColor=654321)
 
-### *"Sharing code stories by the fire"* 🪵
+### *"Gather 'round, I got tales to tell"* 🪵
 
-🔥 Tales of legendary bugs  
-🌟 Team collaboration time  
-☁️ Smoke signals in the code  
+```
+        🔥                     
+       🔥🔥🔥                  📖 Legends of the old west
+      🔥🔥🔥🔥                 
+     =========                 🌟 Stories worth sharin'
+     |       |                 
+     |_______|                 ☁️ Smoke drifts to the heavens
+```
 
 ![Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)
 
@@ -123,14 +146,18 @@
 
 <div align="center">
 
-![Time Badge](https://img.shields.io/badge/🏜️_DUSTY_TRAIL-On_The_Road-CD853F?style=for-the-badge&labelColor=8B4513)
-![Status](https://img.shields.io/badge/Status-Blazing_New_Trails-DEB887?style=for-the-badge&labelColor=A0522D)
+![Time Badge](https://img.shields.io/badge/🏜️_DUSTY_TRAIL-Trail_Blazin'-CD853F?style=for-the-badge&labelColor=8B4513)
+![Status](https://img.shields.io/badge/Status-Ridin'_Hard-DEB887?style=for-the-badge&labelColor=A0522D)
 
-### *"Forging new paths in the codebase"* 🐴
+### *"Blazin' trails where others fear to tread"* 🐴
 
-🏜️ Exploring new territories  
-💨 Dust settles on old bugs  
-🌵 Pioneering through the desert  
+```
+   🌵        🌵               
+      🐴                       🏜️ Uncharted territory ahead
+   . . . . . .                
+  ~ ~ ~ ~ ~ ~ ~               💨 Dust clouds in our wake
+ ~~~~~~~~~~~~~~~              🌵 Desert stretches far
+```
 
 ![Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png)
 
