@@ -29,7 +29,7 @@
 <div align="center">
 
 <!-- TYPING_ANIMATION_START -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Maker+%7C+Tinkerer+%7C+Trailblazer;Builder+%7C+Breaker+%7C+Dream-Fixer;Maker+%7C+Architect+%7C+Foundation-Layer;Logic+Lines,+Simple+Purpose;Structure+Grows,+Silence+Holds;Syntax+Settles+Like+Sand;The+Trail+Connects+Like+Wires;Systems+Hum+Toward+Noon)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Maker+%7C+Tinkerer+%7C+Trailblazer;Builder+%7C+Breaker+%7C+Dream-Fixer;Maker+%7C+Architect+%7C+Foundation-Layer;Logic+Lines,+Simple+Purpose;Structure+Grows,+Silence+Holds;Syntax+Settles+Like+Sand;The+Trail+Connects+Like+Wires;Systems+Hum+Toward+Noon)](https://git.io/typing-svg)
 <!-- TYPING_ANIMATION_END -->
 
 </div>
