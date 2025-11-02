@@ -5,7 +5,7 @@
 
 </div>
 
-![Wave Overlay](https://capsule-render.vercel.app/api?type=waving&color=0:8B451366,50:D2691E99,100:DEB88799&height=250&section=header&text=rundowntown&fontSize=90&fontColor=F5F5DC&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&reversal=false&animation=twinkling)
+![Wave Overlay](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:D2691E,100:DEB887&height=250&section=header&text=rundowntown&fontSize=90&fontColor=F5F5DC&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&reversal=false&animation=fadeIn)
 
 <div align="center">
   
