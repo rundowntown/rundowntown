@@ -9,6 +9,8 @@
 ![Time Badge](https://img.shields.io/badge/☕_MORNING-Trail_Starts-FFA500?style=for-the-badge&labelColor=8B4513)
 ![Current Time](https://img.shields.io/badge/⏰_Time-7am--10am-FFB347?style=for-the-badge&labelColor=A0522D)
 
+<img width="300" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB347,100:FDD835&height=1" />
+
 ### *Coffee's hot, horses saddled, let's ride*
 
 ☕ Fresh brew ready • 🏜️ Trail's callin' • 🐎 Saddle up time
