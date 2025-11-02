@@ -416,7 +416,10 @@ jobs:
           divider2_replacement = f"<!-- DIVIDER_2_START -->\n{divider2}\n<!-- DIVIDER_2_END -->"
           updated_content = re.sub(divider2_pattern, divider2_replacement, updated_content, flags=re.DOTALL)
           
-          # NOTE: DIVIDER_3 is intentionally NOT updated - it stays as simple markdown "---"
+          # Replace divider 3 (short divider between stats and tech)
+          divider3_pattern = r'<!-- DIVIDER_3_START -->.*?<!-- DIVIDER_3_END -->'
+          divider3_replacement = f"<!-- DIVIDER_3_START -->\n{current_divider}\n<!-- DIVIDER_3_END -->"
+          updated_content = re.sub(divider3_pattern, divider3_replacement, updated_content, flags=re.DOTALL)
           
           # Write back to README
           with open('README.md', 'w', encoding='utf-8') as f:
