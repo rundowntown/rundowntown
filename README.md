@@ -1,12 +1,13 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=rundowntown&fontSize=90&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55&descAlign=50&animation=twinkling)
+<!-- Western/Cowboy Theme - Dusty earth tones for a sleek, professional look -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:D2691E,100:DEB887&height=280&section=header&text=rundowntown&fontSize=80&fontColor=F5F5DC&fontAlignY=38&desc=Code.%20Create.%20Conquer.&descSize=24&descAlignY=58&descAlign=50)
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning+New+Things+%F0%9F%9A%80;Building+Cool+Stuff+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=650&height=100&lines=Developer+%7C+Builder+%7C+Problem+Solver;Crafting+Code+in+the+Digital+Frontier;Riding+Through+Bugs+Like+a+Pro)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=rundowntown&color=blueviolet&style=flat-square&label=Profile+Views)
-[![GitHub Followers](https://img.shields.io/github/followers/rundowntown?style=social)](https://github.com/rundowntown)
-[![GitHub Stars](https://img.shields.io/github/stars/rundowntown?style=social)](https://github.com/rundowntown)
+![Profile Views](https://komarev.com/ghpvc/?username=rundowntown&color=cd853f&style=flat-square&label=Trail+Visitors)
+[![GitHub Followers](https://img.shields.io/github/followers/rundowntown?style=flat-square&color=8B4513&labelColor=2F4F4F&logo=github)](https://github.com/rundowntown)
+[![GitHub Stars](https://img.shields.io/github/stars/rundowntown?style=flat-square&color=DAA520&labelColor=2F4F4F&logo=github)](https://github.com/rundowntown)
 
 </div>
 
@@ -14,15 +15,15 @@
 
 <br>
 
-## 🚀 About Me
+## 🎯 About Me
 
 <!-- Customize these -->
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technologies you're learning]**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **[Your expertise areas]**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 🏜️ Currently building **[Your Current Project]**
+- 📚 Learning the ropes with **[Technologies you're learning]**
+- 🤝 Open to collaborating on **ambitious projects**
+- 💡 Ask me about **[Your expertise areas]**
+- 📬 Reach me at: **your.email@example.com**
+- 🌵 Based in **[Your Location]**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -55,11 +56,11 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rundowntown&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rundowntown&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=2F4F4F&title_color=D2691E&text_color=D3D3D3&icon_color=CD853F)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rundowntown&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rundowntown&theme=dark&hide_border=true&background=2F4F4F&ring=D2691E&fire=CD853F&currStreakLabel=D2691E&sideNums=D3D3D3&currStreakNum=DEB887&sideLabels=D3D3D3&dates=A9A9A9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rundowntown&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rundowntown&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=2F4F4F&title_color=D2691E&text_color=D3D3D3)
 
 </div>
 
@@ -69,7 +70,7 @@
 
 <div align="center">
   
-![Trophies](https://github-profile-trophy.vercel.app/?username=rundowntown&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=rundowntown&theme=gruvbox&no-frame=true&no-bg=false&row=1&column=7)
 
 </div>
 
@@ -77,7 +78,7 @@
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rundowntown&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rundowntown&theme=github-compact&hide_border=true&bg_color=2F4F4F&color=D2691E&line=CD853F&point=DEB887)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -113,7 +114,7 @@
 
 ## 💡 Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -128,8 +129,8 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rundowntown&repo=YOUR-REPO-NAME&theme=tokyonight&hide_border=true)](https://github.com/rundowntown/YOUR-REPO-NAME)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rundowntown&repo=YOUR-REPO-NAME-2&theme=tokyonight&hide_border=true)](https://github.com/rundowntown/YOUR-REPO-NAME-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rundowntown&repo=YOUR-REPO-NAME&theme=dark&hide_border=true&bg_color=2F4F4F&title_color=D2691E&text_color=D3D3D3&icon_color=CD853F)](https://github.com/rundowntown/YOUR-REPO-NAME)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rundowntown&repo=YOUR-REPO-NAME-2&theme=dark&hide_border=true&bg_color=2F4F4F&title_color=D2691E&text_color=D3D3D3&icon_color=CD853F)](https://github.com/rundowntown/YOUR-REPO-NAME-2)
 
 </div>
 
@@ -145,7 +146,7 @@
 
 ![Animated Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2F4F4F,50:8B4513,100:D2691E&height=120&section=footer)
 
 </div>
 
