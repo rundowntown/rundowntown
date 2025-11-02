@@ -1,12 +1,18 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=rundowntown&fontSize=90&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55&descAlign=50&animation=twinkling)
+
 <div align="center">
   
-# Hi there, I'm rundowntown 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning+New+Things+%F0%9F%9A%80;Building+Cool+Stuff+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rundowntown&color=blueviolet&style=flat-square&label=Profile+Views)
+[![GitHub Followers](https://img.shields.io/github/followers/rundowntown?style=social)](https://github.com/rundowntown)
+[![GitHub Stars](https://img.shields.io/github/stars/rundowntown?style=social)](https://github.com/rundowntown)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 ## 🚀 About Me
 
@@ -17,6 +23,8 @@
 - 💬 Ask me about **[Your expertise areas]**
 - 📫 How to reach me: **your.email@example.com**
 - ⚡ Fun fact: **[Something interesting about you]**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Tech Stack
 
@@ -41,6 +49,8 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -53,6 +63,8 @@
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -61,9 +73,13 @@
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 📈 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rundowntown&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🐍 Contribution Snake
 
@@ -71,11 +87,15 @@
 
 <!-- Note: To enable the snake animation, you'll need to set up a GitHub Action. Instructions below in Setup section -->
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 💻 Most Used Languages (Detailed)
 
 <!--START_SECTION:waka-->
 <!-- If you use WakaTime, this section will auto-update with your coding stats -->
 <!--END_SECTION:waka-->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📫 Connect With Me
 
@@ -89,22 +109,43 @@
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 💡 Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎵 Spotify Playing (Optional)
 
 <!-- If you want to show your current Spotify track, uncomment below and set up the integration -->
 <!-- [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername) -->
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 Pinned Repositories
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rundowntown&repo=YOUR-REPO-NAME&theme=tokyonight&hide_border=true)](https://github.com/rundowntown/YOUR-REPO-NAME)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rundowntown&repo=YOUR-REPO-NAME-2&theme=tokyonight&hide_border=true)](https://github.com/rundowntown/YOUR-REPO-NAME-2)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
 <div align="center">
-  
+
+![Animated Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ### Show some ❤️ by starring some of the repositories!
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![Animated Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling)
 
 </div>
 
