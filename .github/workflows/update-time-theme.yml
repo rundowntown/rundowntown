@@ -200,7 +200,7 @@ jobs:
               "SUNRISE": {
                   "hours": range(5, 7),
                   "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FF6347,100:FFD700&height=120&section=footer)",
-                  "divider": "![Animated Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)",
+                  "divider": '<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">',
                   "content_template": '''![Sunrise Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FF6347,100:FFD700&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc={tagline}&descSize=28&descAlignY=65&animation=fadeIn)
 
           <div align="center">
@@ -217,7 +217,7 @@ jobs:
               "MORNING": {
                   "hours": range(7, 10),
                   "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,50:FFB347,100:FDD835&height=120&section=footer)",
-                  "divider": "![Animated Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)",
+                  "divider": '<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">',
                   "content_template": '''![Morning Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,50:FFB347,100:FDD835&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc={tagline}&descSize=28&descAlignY=65&animation=scaleIn)
 
           <div align="center">
@@ -234,7 +234,7 @@ jobs:
               "MIDDAY": {
                   "hours": range(10, 13),
                   "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFC107,100:FFEB3B&height=120&section=footer)",
-                  "divider": "![Animated Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)",
+                  "divider": '<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">',
                   "content_template": '''![Midday Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFC107,100:FFEB3B&height=250&section=header&text=rundowntown&fontSize=90&fontColor=8B4513&stroke=000000&strokeWidth=2&fontAlignY=45&desc={tagline}&descSize=28&descAlignY=65&animation=scaleIn)
 
           <div align="center">
@@ -251,7 +251,7 @@ jobs:
               "LATE_AFTERNOON": {
                   "hours": range(13, 17),
                   "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF7F00,100:DAA520&height=120&section=footer)",
-                  "divider": "![Animated Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)",
+                  "divider": '<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">',
                   "content_template": '''![Late Afternoon Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF7F00,100:DAA520&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc={tagline}&descSize=28&descAlignY=65&animation=twinkling)
 
           <div align="center">
@@ -268,7 +268,7 @@ jobs:
               "SUNSET": {
                   "hours": range(17, 19),
                   "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF6347,100:FF8C69&height=120&section=footer)",
-                  "divider": "![Animated Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)",
+                  "divider": '<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">',
                   "content_template": '''![Evening Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF6347,100:FF8C69&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc={tagline}&descSize=28&descAlignY=65&animation=fadeIn)
 
           <div align="center">
@@ -285,7 +285,7 @@ jobs:
               "DUSK": {
                   "hours": range(19, 21),
                   "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=120&section=footer)",
-                  "divider": "![Animated Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png)",
+                  "divider": '<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">',
                   "content_template": '''![Dusk Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=250&section=header&text=rundowntown&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=2&fontAlignY=45&desc={tagline}&descSize=28&descAlignY=65&animation=scaleIn)
 
           <div align="center">
@@ -302,7 +302,7 @@ jobs:
               "MIDNIGHT": {
                   "hours": range(21, 24),
                   "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=120&section=footer)",
-                  "divider": "![Animated Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)",
+                  "divider": '<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">',
                   "content_template": '''![Midnight Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=250&section=header&text=rundowntown&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=3&fontAlignY=45&desc={tagline}&descSize=28&descAlignY=65&animation=twinkling)
 
           <div align="center">
@@ -319,7 +319,7 @@ jobs:
               "LATE_NIGHT": {
                   "hours": range(0, 3),
                   "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:2F4F4F&height=120&section=footer)",
-                  "divider": "![Animated Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)",
+                  "divider": '<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">',
                   "content_template": '''![Late Night Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:2F4F4F&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=4169E1&strokeWidth=2&fontAlignY=45&desc={tagline}&descSize=28&descAlignY=65&animation=twinkling)
 
           <div align="center">
@@ -336,7 +336,7 @@ jobs:
               "EARLY_MORNING": {
                   "hours": range(3, 5),
                   "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:6A5ACD&height=120&section=footer)",
-                  "divider": "![Animated Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)",
+                  "divider": '<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">',
                   "content_template": '''![Early Morning Banner](https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:6A5ACD&height=250&section=header&text=rundowntown&fontSize=90&fontColor=E6E6FA&stroke=000000&strokeWidth=2&fontAlignY=45&desc={tagline}&descSize=28&descAlignY=65&animation=fadeIn)
 
           <div align="center">

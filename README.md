@@ -23,7 +23,7 @@
 <!-- TIME_THEME_END -->
 
 <!-- DIVIDER_1_START -->
-![Animated Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- DIVIDER_1_END -->
 
 <div align="center">
@@ -35,7 +35,7 @@
 </div>
 
 <!-- DIVIDER_2_START -->
-![Animated Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- DIVIDER_2_END -->
 
 <div align="center">
