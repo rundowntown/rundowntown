@@ -439,9 +439,9 @@ jobs:
           color_match_div3 = regex.search(r'color=([^&]+)', current_divider)
           if color_match_div3:
               color_value = color_match_div3.group(1)
-              divider3_short = f'<div align="center">\n<img width="400" src="https://capsule-render.vercel.app/api?type=rect&color={color_value}&height=2" />\n</div>'
+              divider3_short = f'<div align="center">\n<img width="400" src="https://capsule-render.vercel.app/api?type=rect&color={color_value}&height=3" />\n</div>'
           else:
-              divider3_short = '<div align="center">\n<img width="400" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B4513,50:D2691E,100:DEB887&height=2" />\n</div>'
+              divider3_short = '<div align="center">\n<img width="400" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B4513,50:D2691E,100:DEB887&height=3" />\n</div>'
           
           divider3_pattern = r'<!-- DIVIDER_3_START -->.*?<!-- DIVIDER_3_END -->'
           divider3_replacement = f"<!-- DIVIDER_3_START -->\n{divider3_short}\n<!-- DIVIDER_3_END -->"
