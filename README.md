@@ -1,13 +1,5 @@
-<!-- Western/Cowboy Theme - Custom Image Banner -->
-<div align="center">
-
-![Cowboys Banner](./cowboys.jpg)
-
-# rundowntown
-
-### Code. Create. Conquer.
-
-</div>
+<!-- Western/Cowboy Theme - Custom Banner with Text Overlay -->
+![Cowboys Banner](./cowboys_banner.jpg)
 
 <div align="center">
   
