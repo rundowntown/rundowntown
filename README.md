@@ -23,13 +23,9 @@
 
 ### *"The early coder catches the bug"* 🐛
 
-```
-    \   /        ☁️
-     .-.         
-  ‒ (   ) ‒     🏜️ Another day, another deploy
-     `-'         
-    /   \        
-```
+🌅 Another day, another deploy  
+☕ Fresh coffee brewing  
+🏜️ Desert sunrise vibes  
 
 ![Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)
 
@@ -48,13 +44,9 @@
 
 ### *"Draw your keyboard, partner"* 🤠
 
-```
-      .
-     /_\        ☀️  FULL POWER MODE
-    // \\       
-   //   \\      🌵 Peak productivity hours
-  //_____\\     
-```
+☀️ FULL POWER MODE  
+🌵 Peak productivity hours  
+⚡ Maximum focus activated  
 
 ![Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
@@ -73,14 +65,9 @@
 
 ### *"Riding into the sunset with clean code"* 🌅
 
-```
-     ~           🌄
-  ~     ~        
- ~  ___  ~       🐎 Wrapping up the day
-   /   \         
-  |  O  |        ☁️  Commits pushed
-  |_____|        
-```
+🌄 Golden hour coding  
+🐎 Wrapping up the day  
+✅ Commits pushed successfully  
 
 ![Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
@@ -99,14 +86,9 @@
 
 ### *"The code is darkest before the deploy"* 🦉
 
-```
-    *  .  *         
-  .   🌙   .     ✨ Night mode: ACTIVATED
- *    . *    *    
-      |||         🔥 Coffee levels: MAXIMUM
-     /___\        
-    |     |       ⭐ Debugging by starlight
-```
+✨ Night mode: ACTIVATED  
+🔥 Coffee levels: MAXIMUM  
+⭐ Debugging by starlight  
 
 ![Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -125,13 +107,9 @@
 
 ### *"Sharing code stories by the fire"* 🪵
 
-```
-      🔥          
-     🔥🔥🔥       ☁️ Tales of legendary bugs
-    🔥🔥🔥🔥      
-   ==🪵🪵🪵==    🌟 Team collaboration time
-   |       |      
-```
+🔥 Tales of legendary bugs  
+🌟 Team collaboration time  
+☁️ Smoke signals in the code  
 
 ![Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)
 
@@ -150,13 +128,9 @@
 
 ### *"Forging new paths in the codebase"* 🐴
 
-```
-   🌵      🌵      
-      🐴          🏜️ Exploring new territories
-   .  .  .  .     
-  ~  ~  ~  ~      💨 Dust settles on old bugs
- ~~~~~~~~~~~~~    
-```
+🏜️ Exploring new territories  
+💨 Dust settles on old bugs  
+🌵 Pioneering through the desert  
 
 ![Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png)
 
