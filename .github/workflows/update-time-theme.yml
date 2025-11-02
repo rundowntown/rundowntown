@@ -416,9 +416,17 @@ jobs:
           divider2_replacement = f"<!-- DIVIDER_2_START -->\n{divider2}\n<!-- DIVIDER_2_END -->"
           updated_content = re.sub(divider2_pattern, divider2_replacement, updated_content, flags=re.DOTALL)
           
-          # Replace divider 3 (short divider between stats and tech)
+          # Replace divider 3 (short divider between stats and tech) - make it constrained width
+          # Extract just the color part from current_divider and create short version
+          color_match_div3 = regex.search(r'color=([^&]+)', current_divider)
+          if color_match_div3:
+              color_value = color_match_div3.group(1)
+              divider3_short = f'<div align="center">\n<img width="400" src="https://capsule-render.vercel.app/api?type=rect&color={color_value}&height=2" />\n</div>'
+          else:
+              divider3_short = '<div align="center">\n<img width="400" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B4513,50:D2691E,100:DEB887&height=2" />\n</div>'
+          
           divider3_pattern = r'<!-- DIVIDER_3_START -->.*?<!-- DIVIDER_3_END -->'
-          divider3_replacement = f"<!-- DIVIDER_3_START -->\n{current_divider}\n<!-- DIVIDER_3_END -->"
+          divider3_replacement = f"<!-- DIVIDER_3_START -->\n{divider3_short}\n<!-- DIVIDER_3_END -->"
           updated_content = re.sub(divider3_pattern, divider3_replacement, updated_content, flags=re.DOTALL)
           
           # Write back to README
