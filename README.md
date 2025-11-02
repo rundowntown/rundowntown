@@ -23,35 +23,7 @@
 
 ### *"Rise and shine, partner - the frontier awaits"* 🌅
 
-```
-<div align="center">
-<pre>
-          _    .  ,   .           🌵
-      *  / \_ *  / \_      _  *        *
-    /\/    \_/    \   /\/       .    . 
-   /   /|  / \_   \_/  \    *       *      🌄
-      / | /    \_ /   \  \_/  .  .   .
-   *  \/     /   /|  /   /      *      *
-        \__ /_  / | /  _/ _  .       .
-  🔥     /     \__/  \__/   \    🪵
-   ~~~  ~~~~~~~~~~  ~~~~~ ~~~ ~~~~~
-</pre>
-</div>
-```
-<div align="center">
-<pre>
-          _    .  ,   .           🌵
-      *  / \_ *  / \_      _  *        *
-    /\/    \_/    \   /\/       .    . 
-   /   /|  / \_   \_/  \    *       *      🌄
-      / | /    \_ /   \  \_/  .  .   .
-   *  \/     /   /|  /   /      *      *
-        \__ /_  / | /  _/ _  .       .
-  🔥     /     \__/  \__/   \    🪵
-   ~~~  ~~~~~~~~~~  ~~~~~ ~~~ ~~~~~
-</pre>
-</div>
-![Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)
+☕ Fresh pot on the fire • 🏜️ Trail opens at first light • ⛺ Breaking camp
 
 </div>
 
@@ -68,16 +40,7 @@
 
 ### *"This town ain't big enough for bugs"* 🤠
 
-```
-              .
-             /_\                ☀️ Sun's high, aim's steady
-            // \\               
-           //   \\              🌵 High noon showdown
-          //_____\\             
-         //       \\            ⚡ Fast as lightning
-```
-
-![Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
+☀️ Sun's high, aim's steady • 🌵 High noon showdown • ⚡ Fast as lightning
 
 </div>
 
@@ -94,15 +57,7 @@
 
 ### *"Headin' home before dark"* 🌅
 
-```
-      ___                      🌄 Sun's settin' low
-     ( _ )                     
-  ___| | |___                  🐎 Saddle up for home
- |___|   |___|                 
-     |___|                     ✅ Day's work done right
-```
-
-![Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+🌄 Sun's settin' low • 🐎 Saddle up for home • ✅ Day's work done right
 
 </div>
 
@@ -119,16 +74,7 @@
 
 ### *"The night's dark, but the stars guide true"* 🦉
 
-```
-    *    .  *    .             
-  .   🌙    *  .               ✨ Campfire burnin' bright
- *  .    *    .    *           
-      | | |                    🔥 Coffee pot's on
-     (_____)                   ⭐ Stars showin' the way
-      |   |                    
-```
-
-![Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+✨ Campfire burnin' bright • 🔥 Coffee pot's on • ⭐ Stars showin' the way
 
 </div>
 
@@ -145,16 +91,7 @@
 
 ### *"Gather 'round, I got tales to tell"* 🪵
 
-```
-        🔥                     
-       🔥🔥🔥                  📖 Legends of the old west
-      🔥🔥🔥🔥                 
-     =========                 🌟 Stories worth sharin'
-     |       |                 
-     |_______|                 ☁️ Smoke drifts to the heavens
-```
-
-![Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)
+📖 Legends of the old west • 🌟 Stories worth sharin' • ☁️ Smoke drifts to the heavens
 
 </div>
 
@@ -171,15 +108,7 @@
 
 ### *"Blazin' trails where others fear to tread"* 🐴
 
-```
-   🌵        🌵               
-      🐴                       🏜️ Uncharted territory ahead
-   . . . . . .                
-  ~ ~ ~ ~ ~ ~ ~               💨 Dust clouds in our wake
- ~~~~~~~~~~~~~~~              🌵 Desert stretches far
-```
-
-![Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png)
+🏜️ Uncharted territory ahead • 💨 Dust clouds in our wake • 🌵 Desert stretches far
 
 </div>
 
@@ -240,49 +169,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rundowntown&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=2F4F4F&title_color=D2691E&text_color=D3D3D3&icon_color=CD853F)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rundowntown&theme=dark&hide_border=true&background=2F4F4F&ring=D2691E&fire=CD853F&currStreakLabel=D2691E&sideNums=D3D3D3&currStreakNum=DEB887&sideLabels=D3D3D3&dates=A9A9A9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rundowntown&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=2F4F4F&title_color=D2691E&text_color=D3D3D3)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=rundowntown&theme=gruvbox&no-frame=true&no-bg=false&row=1&column=7)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 📈 Contribution Graph
+
+<div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rundowntown&theme=github-compact&hide_border=true&bg_color=2F4F4F&color=D2691E&line=CD853F&point=DEB887)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/rundowntown/rundowntown/output/github-contribution-grid-snake-dark.svg)
-
-<!-- Note: To enable the snake animation, you'll need to set up a GitHub Action. Instructions below in Setup section -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💻 Most Used Languages (Detailed)
-
-<!--START_SECTION:waka-->
-<!-- If you use WakaTime, this section will auto-update with your coding stats -->
-<!--END_SECTION:waka-->
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -298,90 +191,13 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💡 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎵 Spotify Playing (Optional)
-
-<!-- If you want to show your current Spotify track, uncomment below and set up the integration -->
-<!-- [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername) -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎯 Pinned Repositories
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rundowntown&repo=YOUR-REPO-NAME&theme=dark&hide_border=true&bg_color=2F4F4F&title_color=D2691E&text_color=D3D3D3&icon_color=CD853F)](https://github.com/rundowntown/YOUR-REPO-NAME)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rundowntown&repo=YOUR-REPO-NAME-2&theme=dark&hide_border=true&bg_color=2F4F4F&title_color=D2691E&text_color=D3D3D3&icon_color=CD853F)](https://github.com/rundowntown/YOUR-REPO-NAME-2)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ---
 
 <div align="center">
-
-![Animated Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-### Show some ❤️ by starring some of the repositories!
-
-![Animated Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2F4F4F,50:8B4513,100:D2691E&height=120&section=footer)
 
-</div>
-
----
-
-## 🔧 Setup Instructions
-
-<details>
-<summary>Click to expand setup instructions for advanced features</summary>
-
-### Snake Animation Setup
-1. Create `.github/workflows/snake.yml`
-2. Add the following code:
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: rundowntown
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-### WakaTime Setup
-1. Sign up at [WakaTime](https://wakatime.com)
-2. Install WakaTime plugin in your IDE
-3. Add your WakaTime API key to repository secrets
-4. Create a GitHub Action workflow for auto-updates
-
-</details>
-
 ⭐️ From [rundowntown](https://github.com/rundowntown)
+
+</div>
 
