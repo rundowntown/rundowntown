@@ -2,7 +2,7 @@
 
 <!-- TIME_THEME_START -->
 
-![Morning Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,50:FFB347,100:FDD835&height=240&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=38&desc=Boots%20Down.%20Spirits%20High.&descSize=28&descAlignY=58&animation=scaleIn)
+![Morning Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,50:FFB347,100:FDD835&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc=The%20Trail%20Calls.%20We%20Answer.&descSize=28&descAlignY=65&animation=scaleIn)
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 <div align="center">
 
 <!-- TYPING_ANIMATION_START -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Maker%20%7C%20Tinkerer%20%7C%20Trailblazer;The%20Trail%20Connects%20Like%20Wires;Syntax%20Settles%20Like%20Sand;Structure%20Grows%2C%20Silence%20Holds;Systems%20Hum%20Toward%20Noon;Builder%20%7C%20Breaker%20%7C%20Dream-Fixer;Maker%20%7C%20Architect%20%7C%20Foundation-Layer;Logic%20Lines%2C%20Simple%20Purpose)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Maker+%7C+Tinkerer+%7C+Trailblazer;Builder+%7C+Breaker+%7C+Dream-Fixer;Maker+%7C+Architect+%7C+Foundation-Layer;Logic+Lines,+Simple+Purpose;Structure+Grows,+Silence+Holds;Syntax+Settles+Like+Sand;The+Trail+Connects+Like+Wires;Systems+Hum+Toward+Noon)](https://git.io/typing-svg)
 <!-- TYPING_ANIMATION_END -->
 
 </div>
@@ -46,7 +46,7 @@
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rundowntown&query=$.public_repos&style=flat-square&color=DAA520&labelColor=2F4F4F&label=Camps+Built&logo=github)
 <!-- DIVIDER_3_START -->
 <div align="center">
-<img width="400" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB347,100:FDD835&height=2" />
+<img width="400" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB347,100:FDD835&height=3" />
 </div>
 <!-- DIVIDER_3_END -->
 
