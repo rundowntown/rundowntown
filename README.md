@@ -1,14 +1,14 @@
 <!-- TIME_THEME_START -->
 
-![Late Afternoon Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF7F00,100:DAA520&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=twinkling)
+![Midday Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFC107,100:FFEB3B&height=250&section=header&text=rundowntown&fontSize=90&fontColor=8B4513&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=scaleIn)
 
 <div align="center">
 
-![Time Badge](https://img.shields.io/badge/🔥_LATE_AFTERNOON-Hottest_Hours-FF8C00?style=for-the-badge&labelColor=8B4513)
+![Time Badge](https://img.shields.io/badge/☀️_MIDDAY-Sun's_Risin'-FFD700?style=for-the-badge&labelColor=8B4513)
 
-### *Draw fast, aim true*
+### *Sun climbs high, desert heat begins*
 
-☀️ Sun's blazin' overhead • 🌵 Peak heat • ⚡ High stakes
+☀️ Heat's buildin' • 🌵 Wide open plains • 💪 Ridin' strong
 
 </div>
 
