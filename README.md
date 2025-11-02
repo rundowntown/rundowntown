@@ -44,9 +44,9 @@
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rundowntown&query=$.public_repos&style=flat-square&color=DAA520&labelColor=2F4F4F&label=Camps+Built&logo=github)
 
 <!-- DIVIDER_3_START -->
-
----
-
+<div align="center">
+<img width="400" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB347,100:FDD835&height=2" />
+</div>
 <!-- DIVIDER_3_END -->
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
