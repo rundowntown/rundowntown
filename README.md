@@ -45,6 +45,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:forcade.analytics@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rundowntown&color=cd853f&style=flat-square&label=Trail+Visitors)
+![Account Age](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rundowntown&query=$.created_at&style=flat-square&color=8B4513&labelColor=2F4F4F&label=Ridin'+Since&logo=github&cacheSeconds=86400)
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rundowntown&query=$.public_repos&style=flat-square&color=DAA520&labelColor=2F4F4F&label=Camps+Built&logo=github)
 
 <!-- FOOTER_WAVE_START -->
