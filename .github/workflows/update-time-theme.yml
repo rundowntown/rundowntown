@@ -357,11 +357,12 @@ jobs:
           random_tagline = random.choice(taglines[current_theme_name])
           encoded_tagline = urllib.parse.quote(random_tagline)
           
-          # Get 3 random typing phrases for this time period
-          random_typing_phrases = random.sample(typing_phrases[current_theme_name], 3)
-          encoded_typing = ";".join([urllib.parse.quote(phrase) for phrase in random_typing_phrases])
+          # Get ALL typing phrases for this time period and shuffle them
+          all_typing_phrases = typing_phrases[current_theme_name].copy()
+          random.shuffle(all_typing_phrases)
+          encoded_typing = ";".join([urllib.parse.quote(phrase) for phrase in all_typing_phrases])
           
-          # Build the typing animation URL
+          # Build the typing animation URL with all phrases
           typing_animation = f"[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines={encoded_typing})](https://git.io/typing-svg)"
           
           # Build the content with the random tagline
@@ -393,7 +394,7 @@ jobs:
           
           print(f"✅ Updated theme: {current_theme_name} at {current_time.strftime('%I:%M %p %Z')}")
           print(f"🎲 Random banner tagline: '{random_tagline}'")
-          print(f"⌨️  Random typing phrases: {random_typing_phrases}")
+          print(f"⌨️  Typing phrases (shuffled): {len(all_typing_phrases)} total")
           EOF
           
       - name: Commit and push if changed
