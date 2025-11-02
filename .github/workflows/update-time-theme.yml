@@ -45,59 +45,58 @@ jobs:
           # Define tagline options for each time period
           taglines = {
               "SUNRISE": [
-                  "Rise. Ride. Build.",
-                  "Wake. Code. Roam.",
-                  "Trail Starts Here.",
-                  "New Day. New Lines.",
-                  "Forge the Path Ahead."
+                  "Rise. Ride. Begin.",
+                  "First Light. New Trail.",
+                  "The Day Awakes. So Do We.",
+                  "Where Dawn Meets Dust."
               ],
               "MORNING": [
-                  "Saddle Up. Ship Out.",
-                  "Ride Hard. Code Clean.",
-                  "Coffee. Code. Carry On.",
-                  "Boots Down. Build Up."
+                  "Boots Down. Spirits High.",
+                  "The Trail Calls. We Answer.",
+                  "Strong Coffee. Open Road.",
+                  "Saddled and Steady."
               ],
               "MIDDAY": [
-                  "Keep Ridin'. Keep Buildin'.",
-                  "Heat. Hustle. Handle It.",
-                  "Full Sun. Full Throttle.",
-                  "Push the Frontier."
+                  "Noon Sun. Clear Path.",
+                  "Keep the Pace. Hold the Line.",
+                  "The Work's in the Ride.",
+                  "Blazing Trails Under Open Sky."
               ],
               "LATE_AFTERNOON": [
-                  "Draw Fast. Ship True.",
-                  "Test Your Mettle.",
-                  "Code Under Fire.",
-                  "Noon's Heat. Hard Work."
+                  "Heat's High. Keep Ridin'.",
+                  "Dust Rises. Spirits Don't.",
+                  "The Long Ride Tests All.",
+                  "Hold Fast. Press On."
               ],
               "SUNSET": [
-                  "Build. Reflect. Repeat.",
-                  "Day's Done. Code Won.",
-                  "Ride Home Victorious.",
-                  "Golden Hour Glory."
+                  "Sun Sets. Trail Rests.",
+                  "Another Ride, Well Ridden.",
+                  "Gold Sky, Quiet Pride.",
+                  "Day's End, Story Told."
               ],
               "DUSK": [
-                  "Lights Low. Logs High.",
-                  "Campfire & Commits.",
-                  "Stories Shared. Code Saved.",
-                  "Rest Easy. Ride Tomorrow."
+                  "Lanterns Glow. Voices Fade.",
+                  "Camp's Warm. Sky Cool.",
+                  "Night Gathers Slow.",
+                  "Home by the Last Light."
               ],
               "MIDNIGHT": [
-                  "Stars Above. Ideas Below.",
-                  "Quiet Hours. Loud Thoughts.",
-                  "Code by Starlight.",
-                  "Midnight Minds at Work."
+                  "Stars Above. Silence Below.",
+                  "Still Night. Steady Heart.",
+                  "The Frontier Sleeps Light.",
+                  "Moon Watches All."
               ],
               "LATE_NIGHT": [
-                  "Stillness Breeds Brilliance.",
-                  "The Night Writes Code.",
-                  "Only Coyotes and Coders Awake.",
-                  "Keep the Fire Burnin'."
+                  "Only the Fire Still Moves.",
+                  "Whispers Across the Plain.",
+                  "The Night Holds Its Own.",
+                  "Dreams Ride in Shadow."
               ],
               "EARLY_MORNING": [
-                  "Before the Light, We Build.",
-                  "Dream. Wake. Deploy.",
-                  "Last Watch of the Night.",
-                  "Code 'til Dawn."
+                  "Before Dawn, the World Waits.",
+                  "Horizon Breathing Gold.",
+                  "The Quiet Before the Ride.",
+                  "Darkness Makes Room for Light."
               ]
           }
           
