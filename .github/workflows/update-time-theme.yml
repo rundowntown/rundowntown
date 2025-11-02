@@ -372,7 +372,7 @@ jobs:
           encoded_typing = ";".join([urllib.parse.quote(phrase) for phrase in all_typing_phrases])
           
           # Build the typing animation URL with all phrases
-          typing_animation = f"[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=60&lines={encoded_typing})](https://git.io/typing-svg)"
+          typing_animation = f"[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines={encoded_typing})](https://git.io/typing-svg)"
           
           # Build the content with the random tagline
           current_theme = current_theme_data["content_template"].format(tagline=encoded_tagline)
