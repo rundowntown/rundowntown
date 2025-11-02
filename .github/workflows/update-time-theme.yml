@@ -1,13 +1,14 @@
+# THIS WORKFLOW IS DISABLED
+# To enable: uncomment the schedule section below
+
 name: Update Time-Based Western Theme
 
 on:
-  schedule:
-    # Runs every 2 hours
-    - cron: '0 */2 * * *'
-  workflow_dispatch: # Allows manual trigger
-  push:
-    branches:
-      - main
+  # DISABLED - Uncomment to enable automatic updates every 2 hours
+  # schedule:
+  #   - cron: '0 */2 * * *'
+  
+  workflow_dispatch: # Manual trigger only
 
 permissions:
   contents: write
@@ -160,7 +161,7 @@ jobs:
           ![Time Badge](https://img.shields.io/badge/🔥_LATE_AFTERNOON-Hottest_Hours-FF8C00?style=for-the-badge&labelColor=8B4513)
           ![Current Time](https://img.shields.io/badge/⏰_Time-1pm--5pm-DAA520?style=for-the-badge&labelColor=654321)
 
-          ### *Draw fast, aim true*
+          ### *The Long Ride Tests All*
 
           ☀️ Sun's blazin' overhead • 🌵 Peak heat • ⚡ High stakes
 
@@ -285,19 +286,13 @@ jobs:
               f.write(updated_content)
           
           print(f"✅ Updated theme: {current_theme_name} at {current_time.strftime('%I:%M %p %Z')}")
-          print(f"🎲 Random tagline selected: '{random_tagline}'")
+          print(f"🎲 Random tagline: '{random_tagline}'")
           EOF
-          
-      - name: Get theme info for commit
-        id: theme_info
-        run: |
-          THEME=$(grep -oP '(?<=Updated theme: )\w+' <<< "${{ steps.update.outputs.log }}" || echo "UNKNOWN")
-          echo "theme=$THEME" >> $GITHUB_OUTPUT
           
       - name: Commit and push if changed
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤠 Auto-update: Western theme" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤠 Auto-update Western theme" && git push)
 
