@@ -23,7 +23,7 @@
 <!-- TIME_THEME_END -->
 
 <!-- DIVIDER_1_START -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB347,100:FDD835&height=2)
 <!-- DIVIDER_1_END -->
 
 <div align="center">
@@ -35,7 +35,7 @@
 </div>
 
 <!-- DIVIDER_2_START -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB347,100:FDD835&height=2)
 <!-- DIVIDER_2_END -->
 
 <div align="center">
