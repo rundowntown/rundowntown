@@ -2,7 +2,7 @@
 
 <!-- TIME_THEME_START -->
 
-![Morning Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,50:FFB347,100:FDD835&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc=The%20Trail%20Calls.%20We%20Answer.&descSize=28&descAlignY=65&animation=scaleIn)
+![Morning Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,50:FFB347,100:FDD835&height=350&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc=The%20Trail%20Calls.%20We%20Answer.&descSize=28&descAlignY=65&animation=scaleIn)
 
 <div align="center">
 
