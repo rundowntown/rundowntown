@@ -43,9 +43,11 @@
 ![Account Age](https://img.shields.io/badge/Ridin'_Since-2021-8B4513?style=flat-square&labelColor=2F4F4F&logo=github)
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rundowntown&query=$.public_repos&style=flat-square&color=DAA520&labelColor=2F4F4F&label=Camps+Built&logo=github)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=2&section=header&width=400" />
-</p>
+<div align="center">
+  
+─────────────────────────────
+
+</div>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
