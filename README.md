@@ -1,9 +1,4 @@
-<!-- Western/Cowboy Theme - Layered Cowboys Image + Animated Wave -->
-<div align="center">
-
-![Cowboys Banner](./cowboys.jpg)
-
-</div>
+<!-- Western/Cowboy Theme - Auto-updating time-based themes -->
 
 <!-- TIME_THEME_START -->
 
