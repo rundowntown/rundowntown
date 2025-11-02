@@ -7,26 +7,160 @@
 
 ---
 
-## 🌅 TESTING WESTERN TIME-OF-DAY THEMES
-### (Edit these colors before we automate!)
+## 🌅 TESTING COMPLETE TIME-OF-DAY THEMES
+### (Each theme includes: Banner + Time Badge + Quote + Styling!)
 
-### ☀️ DAWN - Early Morning (Orange/Pink Sunrise)
-![Dawn](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7931E,100:FDC830&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=fadeIn)
+---
 
-### ☀️ HIGH NOON - Midday (Bright Desert Gold)
-![High Noon](https://capsule-render.vercel.app/api?type=waving&color=0:DEB887,50:DAA520,100:FFD700&height=250&section=header&text=rundowntown&fontSize=90&fontColor=8B4513&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=scaleIn)
+### 🌅 DAWN THEME (5am - 11am)
 
-### 🌄 DUSK - Evening (Deep Orange/Brown Sunset)
-![Dusk](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:D2691E,100:DEB887&height=250&section=header&text=rundowntown&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=scaleIn)
+![Dawn Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7931E,100:FDC830&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=fadeIn)
 
-### 🌙 MIDNIGHT - Night (Dark Gray/Brown)
-![Midnight](https://capsule-render.vercel.app/api?type=waving&color=0:2F4F4F,50:696969,100:8B4513&height=250&section=header&text=rundowntown&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=3&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=twinkling)
+<div align="center">
 
-### 🔥 CAMPFIRE - Warm Orange Glow
-![Campfire](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:FF4500,100:FF6347&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFAF0&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=twinkling)
+![Time Badge](https://img.shields.io/badge/🌅_DAWN-Rise_and_Code-FF6B35?style=for-the-badge&labelColor=8B4513)
+![Current Time](https://img.shields.io/badge/⏰_Local_Time-Morning-FDC830?style=for-the-badge&labelColor=D2691E)
 
-### 🏜️ DUSTY TRAIL - Brown/Tan Desert
-![Dusty Trail](https://capsule-render.vercel.app/api?type=waving&color=0:A0522D,50:CD853F,100:DEB887&height=250&section=header&text=rundowntown&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=scaleIn)
+### *"The early coder catches the bug"* 🐛
+
+```
+    \   /        ☁️
+     .-.         
+  ‒ (   ) ‒     🏜️ Another day, another deploy
+     `-'         
+    /   \        
+```
+
+![Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)
+
+</div>
+
+---
+
+### ☀️ HIGH NOON THEME (11am - 5pm)
+
+![High Noon Banner](https://capsule-render.vercel.app/api?type=waving&color=0:DEB887,50:DAA520,100:FFD700&height=250&section=header&text=rundowntown&fontSize=90&fontColor=8B4513&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=scaleIn)
+
+<div align="center">
+
+![Time Badge](https://img.shields.io/badge/☀️_HIGH_NOON-It's_High_Noon-FFD700?style=for-the-badge&labelColor=8B4513)
+![Current Time](https://img.shields.io/badge/⏰_Local_Time-Afternoon-DAA520?style=for-the-badge&labelColor=654321)
+
+### *"Draw your keyboard, partner"* 🤠
+
+```
+      .
+     /_\        ☀️  FULL POWER MODE
+    // \\       
+   //   \\      🌵 Peak productivity hours
+  //_____\\     
+```
+
+![Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
+
+</div>
+
+---
+
+### 🌄 DUSK THEME (5pm - 9pm)
+
+![Dusk Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:D2691E,100:DEB887&height=250&section=header&text=rundowntown&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=scaleIn)
+
+<div align="center">
+
+![Time Badge](https://img.shields.io/badge/🌄_DUSK-Golden_Hour-D2691E?style=for-the-badge&labelColor=8B4513)
+![Current Time](https://img.shields.io/badge/⏰_Local_Time-Evening-CD853F?style=for-the-badge&labelColor=654321)
+
+### *"Riding into the sunset with clean code"* 🌅
+
+```
+     ~           🌄
+  ~     ~        
+ ~  ___  ~       🐎 Wrapping up the day
+   /   \         
+  |  O  |        ☁️  Commits pushed
+  |_____|        
+```
+
+![Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+
+</div>
+
+---
+
+### 🌙 MIDNIGHT THEME (9pm - 5am)
+
+![Midnight Banner](https://capsule-render.vercel.app/api?type=waving&color=0:2F4F4F,50:696969,100:8B4513&height=250&section=header&text=rundowntown&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=3&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=twinkling)
+
+<div align="center">
+
+![Time Badge](https://img.shields.io/badge/🌙_MIDNIGHT-Night_Owl_Coding-4A4A4A?style=for-the-badge&labelColor=2F2F2F)
+![Current Time](https://img.shields.io/badge/⏰_Local_Time-Night-696969?style=for-the-badge&labelColor=1C1C1C)
+
+### *"The code is darkest before the deploy"* 🦉
+
+```
+    *  .  *         
+  .   🌙   .     ✨ Night mode: ACTIVATED
+ *    . *    *    
+      |||         🔥 Coffee levels: MAXIMUM
+     /___\        
+    |     |       ⭐ Debugging by starlight
+```
+
+![Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+</div>
+
+---
+
+### 🔥 BONUS: CAMPFIRE THEME
+
+![Campfire Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:FF4500,100:FF6347&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFAF0&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=twinkling)
+
+<div align="center">
+
+![Time Badge](https://img.shields.io/badge/🔥_CAMPFIRE-Gathering_Round-FF4500?style=for-the-badge&labelColor=8B4513)
+![Status](https://img.shields.io/badge/Status-Storytelling_Mode-FF6347?style=for-the-badge&labelColor=654321)
+
+### *"Sharing code stories by the fire"* 🪵
+
+```
+      🔥          
+     🔥🔥🔥       ☁️ Tales of legendary bugs
+    🔥🔥🔥🔥      
+   ==🪵🪵🪵==    🌟 Team collaboration time
+   |       |      
+```
+
+![Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)
+
+</div>
+
+---
+
+### 🏜️ BONUS: DUSTY TRAIL THEME
+
+![Dusty Trail Banner](https://capsule-render.vercel.app/api?type=waving&color=0:A0522D,50:CD853F,100:DEB887&height=250&section=header&text=rundowntown&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=scaleIn)
+
+<div align="center">
+
+![Time Badge](https://img.shields.io/badge/🏜️_DUSTY_TRAIL-On_The_Road-CD853F?style=for-the-badge&labelColor=8B4513)
+![Status](https://img.shields.io/badge/Status-Blazing_New_Trails-DEB887?style=for-the-badge&labelColor=A0522D)
+
+### *"Forging new paths in the codebase"* 🐴
+
+```
+   🌵      🌵      
+      🐴          🏜️ Exploring new territories
+   .  .  .  .     
+  ~  ~  ~  ~      💨 Dust settles on old bugs
+ ~~~~~~~~~~~~~    
+```
+
+![Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png)
+
+</div>
 
 ---
 
