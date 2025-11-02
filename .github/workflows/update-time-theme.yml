@@ -40,11 +40,10 @@ jobs:
           current_time = datetime.now(eastern)
           current_hour = current_time.hour
           
-          # Define all 9 themes with matching footer waves
+          # Define all 9 themes
           themes = {
               "SUNRISE": {
                   "hours": range(5, 7),
-                  "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FF6347,100:FFD700&height=120&section=footer)",
                   "content": '''### 🌅 SUNRISE (5am - 7am)
 
           ![Sunrise Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FF6347,100:FFD700&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=fadeIn)
@@ -62,7 +61,6 @@ jobs:
               },
               "MORNING": {
                   "hours": range(7, 10),
-                  "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,50:FFB347,100:FDD835&height=120&section=footer)",
                   "content": '''### ☕ MORNING (7am - 10am)
 
           ![Morning Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,50:FFB347,100:FDD835&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=scaleIn)
@@ -80,7 +78,6 @@ jobs:
               },
               "MIDDAY": {
                   "hours": range(10, 13),
-                  "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFC107,100:FFEB3B&height=120&section=footer)",
                   "content": '''### ☀️ MIDDAY (10am - 1pm)
 
           ![Midday Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFC107,100:FFEB3B&height=250&section=header&text=rundowntown&fontSize=90&fontColor=8B4513&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=scaleIn)
@@ -98,7 +95,6 @@ jobs:
               },
               "LATE_AFTERNOON": {
                   "hours": range(13, 17),
-                  "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF7F00,100:DAA520&height=120&section=footer)",
                   "content": '''### 🔥 LATE AFTERNOON (1pm - 5pm)
 
           ![Late Afternoon Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF7F00,100:DAA520&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=twinkling)
@@ -116,7 +112,6 @@ jobs:
               },
               "SUNSET": {
                   "hours": range(17, 19),
-                  "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF6347,100:FF8C69&height=120&section=footer)",
                   "content": '''### 🌇 EVENING/SUNSET (5pm - 7pm)
 
           ![Evening Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF6347,100:FF8C69&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=fadeIn)
@@ -134,7 +129,6 @@ jobs:
               },
               "DUSK": {
                   "hours": range(19, 21),
-                  "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=120&section=footer)",
                   "content": '''### 🌆 DUSK (7pm - 9pm)
 
           ![Dusk Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=250&section=header&text=rundowntown&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=scaleIn)
@@ -152,7 +146,6 @@ jobs:
               },
               "MIDNIGHT": {
                   "hours": range(21, 24),
-                  "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=120&section=footer)",
                   "content": '''### 🌙 MIDNIGHT (9pm - 12am)
 
           ![Midnight Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=250&section=header&text=rundowntown&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=3&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=twinkling)
@@ -170,7 +163,6 @@ jobs:
               },
               "LATE_NIGHT": {
                   "hours": range(0, 3),
-                  "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:2F4F4F&height=120&section=footer)",
                   "content": '''### 🌌 LATE NIGHT (12am - 3am)
 
           ![Late Night Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:2F4F4F&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=4169E1&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=twinkling)
@@ -188,7 +180,6 @@ jobs:
               },
               "EARLY_MORNING": {
                   "hours": range(3, 5),
-                  "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:6A5ACD&height=120&section=footer)",
                   "content": '''### 🌃 EARLY MORNING (3am - 5am)
 
           ![Early Morning Banner](https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:6A5ACD&height=250&section=header&text=rundowntown&fontSize=90&fontColor=E6E6FA&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=fadeIn)
@@ -208,11 +199,9 @@ jobs:
           
           # Determine current theme
           current_theme = None
-          current_footer = None
           for theme_name, theme_data in themes.items():
               if current_hour in theme_data["hours"]:
                   current_theme = theme_data["content"]
-                  current_footer = theme_data["footer"]
                   break
           
           # Read README
@@ -220,14 +209,12 @@ jobs:
               readme_content = f.read()
           
           # Replace the time theme section
-          theme_pattern = r'<!-- TIME_THEME_START -->.*?<!-- TIME_THEME_END -->'
-          theme_replacement = f"<!-- TIME_THEME_START -->\n\n{current_theme}\n\n<!-- TIME_THEME_END -->"
-          updated_content = re.sub(theme_pattern, theme_replacement, readme_content, flags=re.DOTALL)
+          # Pattern matches from the start marker to the end marker
+          pattern = r'<!-- TIME_THEME_START -->.*?<!-- TIME_THEME_END -->'
           
-          # Replace the footer wave section
-          footer_pattern = r'<!-- FOOTER_WAVE_START -->.*?<!-- FOOTER_WAVE_END -->'
-          footer_replacement = f"<!-- FOOTER_WAVE_START -->\n{current_footer}\n<!-- FOOTER_WAVE_END -->"
-          updated_content = re.sub(footer_pattern, footer_replacement, updated_content, flags=re.DOTALL)
+          replacement = f"<!-- TIME_THEME_START -->\n\n{current_theme}\n\n<!-- TIME_THEME_END -->"
+          
+          updated_content = re.sub(pattern, replacement, readme_content, flags=re.DOTALL)
           
           # Write back to README
           with open('README.md', 'w', encoding='utf-8') as f:
