@@ -1,12 +1,13 @@
 <!-- Western/Cowboy Theme - Custom Image Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rundowntown/rundowntown/main/cowboys.jpg" alt="Header" style="width: 100%; max-height: 350px; object-fit: cover;">
-  <h1 style="margin-top: -150px; font-size: 80px; color: #F5F5DC; text-shadow: 3px 3px 8px #000000;">rundowntown</h1>
-  <p style="font-size: 24px; color: #DEB887; text-shadow: 2px 2px 4px #000000;">Code. Create. Conquer.</p>
-</div>
 
-<!-- OPTION 2: Capsule Render with Waving Effect (Current - No custom image support) -->
-<!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:D2691E,100:DEB887&height=280&section=header&text=rundowntown&fontSize=80&fontColor=F5F5DC&fontAlignY=38&desc=Code.%20Create.%20Conquer.&descSize=24&descAlignY=58&descAlign=50) -->
+![Cowboys Banner](./cowboys.jpg)
+
+# rundowntown
+
+### Code. Create. Conquer.
+
+</div>
 
 <div align="center">
   
