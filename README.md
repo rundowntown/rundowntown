@@ -34,6 +34,8 @@
 
 </div>
 
+<br>
+
 <!-- DIVIDER_2_START -->
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:FDD835,50:FFB347,100:FFA500&height=3)
 <!-- DIVIDER_2_END -->
