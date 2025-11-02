@@ -24,13 +24,33 @@
 ### *"Rise and shine, partner - the frontier awaits"* 🌅
 
 ```
-         .  :  .               
-    .  .    :    .  .          ☕ Fresh pot on the fire
-      \ : /                    🏜️ Trail opens at first light
-   `. .'*`. .'                 
-jgs `*.*.*.'                   ⛺ Breaking camp
+<div align="center">
+<pre>
+          _    .  ,   .           🌵
+      *  / \_ *  / \_      _  *        *
+    /\/    \_/    \   /\/       .    . 
+   /   /|  / \_   \_/  \    *       *      🌄
+      / | /    \_ /   \  \_/  .  .   .
+   *  \/     /   /|  /   /      *      *
+        \__ /_  / | /  _/ _  .       .
+  🔥     /     \__/  \__/   \    🪵
+   ~~~  ~~~~~~~~~~  ~~~~~ ~~~ ~~~~~
+</pre>
+</div>
 ```
-
+<div align="center">
+<pre>
+          _    .  ,   .           🌵
+      *  / \_ *  / \_      _  *        *
+    /\/    \_/    \   /\/       .    . 
+   /   /|  / \_   \_/  \    *       *      🌄
+      / | /    \_ /   \  \_/  .  .   .
+   *  \/     /   /|  /   /      *      *
+        \__ /_  / | /  _/ _  .       .
+  🔥     /     \__/  \__/   \    🪵
+   ~~~  ~~~~~~~~~~  ~~~~~ ~~~ ~~~~~
+</pre>
+</div>
 ![Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)
 
 </div>
