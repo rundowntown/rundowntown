@@ -1,14 +1,13 @@
 name: Update Time-Based Western Theme
 
 on:
-  # DISABLED FOR NOW - Uncomment when ready to automate
-  # schedule:
-  #   # Runs every 2 hours
-  #   - cron: '0 */2 * * *'
-  workflow_dispatch: # Manual trigger ONLY for now
-  # push:
-  #   branches:
-  #     - main
+  schedule:
+    # Runs every 2 hours
+    - cron: '0 */2 * * *'
+  workflow_dispatch: # Allows manual trigger
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
