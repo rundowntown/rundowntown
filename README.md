@@ -1,11 +1,36 @@
-<!-- Western/Cowboy Theme - Auto-Updated Time-Based Banner -->
-<!-- This banner automatically updates every 3 hours with sun/moon positioning! -->
-
+<!-- Western/Cowboy Theme - Layered Cowboys Image + Animated Wave -->
 <div align="center">
 
-![Time-Based Banner](./current_banner.jpg)
+![Cowboys Banner](./cowboys.jpg)
 
 </div>
+
+---
+
+## 🌅 TESTING WESTERN TIME-OF-DAY THEMES
+### (Edit these colors before we automate!)
+
+### ☀️ DAWN - Early Morning (Orange/Pink Sunrise)
+![Dawn](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7931E,100:FDC830&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=fadeIn)
+
+### ☀️ HIGH NOON - Midday (Bright Desert Gold)
+![High Noon](https://capsule-render.vercel.app/api?type=waving&color=0:DEB887,50:DAA520,100:FFD700&height=250&section=header&text=rundowntown&fontSize=90&fontColor=8B4513&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=scaleIn)
+
+### 🌄 DUSK - Evening (Deep Orange/Brown Sunset)
+![Dusk](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:D2691E,100:DEB887&height=250&section=header&text=rundowntown&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=scaleIn)
+
+### 🌙 MIDNIGHT - Night (Dark Gray/Brown)
+![Midnight](https://capsule-render.vercel.app/api?type=waving&color=0:2F4F4F,50:696969,100:8B4513&height=250&section=header&text=rundowntown&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=3&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=twinkling)
+
+### 🔥 CAMPFIRE - Warm Orange Glow
+![Campfire](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:FF4500,100:FF6347&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFAF0&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=twinkling)
+
+### 🏜️ DUSTY TRAIL - Brown/Tan Desert
+![Dusty Trail](https://capsule-render.vercel.app/api?type=waving&color=0:A0522D,50:CD853F,100:DEB887&height=250&section=header&text=rundowntown&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=scaleIn)
+
+---
+
+## 👆 Review these and let me know if you want to adjust any colors before we automate! 👆
 
 ---
 
