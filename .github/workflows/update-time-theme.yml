@@ -43,6 +43,100 @@ jobs:
           current_time = datetime.now(eastern)
           current_hour = current_time.hour
           
+          # Define typing animation phrases for each time period (3 phrases each)
+          typing_phrases = {
+              "SUNRISE": [
+                  "First Light, Fresh Build",
+                  "Systems Wake, Dust Lifts",
+                  "Bootstrapped | Builder | Dawn-Seeker",
+                  "The Day Compiles Clean",
+                  "Tools Ready | Sky Clear",
+                  "Input Set, Output Unknown",
+                  "A New Loop Begins",
+                  "Hello World, Again"
+              ],
+              "MORNING": [
+                  "Maker | Tinkerer | Trailblazer",
+                  "Builder | Breaker | Dream-Fixer",
+                  "Maker | Architect | Foundation-Layer",
+                  "Logic Lines, Simple Purpose",
+                  "Structure Grows, Silence Holds",
+                  "Syntax Settles Like Sand",
+                  "The Trail Connects Like Wires",
+                  "Systems Hum Toward Noon"
+              ],
+              "MIDDAY": [
+                  "Circuits Never Sleep",
+                  "Still Hands, Moving Thought",
+                  "Current Flows, Dust Rises",
+                  "Developer | Craftsman | Problem Solver",
+                  "The Frontier Hums Low",
+                  "Data Rides the Heat",
+                  "Steady Pulse, Endless Code",
+                  "The Range Listens Back"
+              ],
+              "LATE_AFTERNOON": [
+                  "Ain't My First Bug Rodeo",
+                  "No Bug Too Wild",
+                  "The Wolves Know the Deadline",
+                  "Fixer | Wrangler | Deadline Whisperer",
+                  "Breakpoints Set, Calm Under Heat",
+                  "Dust Rises, Focus Holds",
+                  "Quiet Pressure, Honest Fix",
+                  "Every Patch Earned Twice"
+              ],
+              "SUNSET": [
+                  "Campfire Commits and Quiet Logs",
+                  "The Build Holds Through Dusk",
+                  "Thinker | Editor | Pattern-Finder",
+                  "Save Early | Sleep Late",
+                  "The Horizon Stores the Version",
+                  "Lines Written, Errors Forgiven",
+                  "Code Cools as Light Fades",
+                  "Another Day, Another Merge"
+              ],
+              "DUSK": [
+                  "Campfire Reflections, Commit Confessions",
+                  "Firelight Flickers, Thoughts Wander",
+                  "Shared Warmth, Shared Repos",
+                  "Storyteller | Debugger | Signal-Keeper",
+                  "Sparks Rise Like Signals",
+                  "Quiet Voices | Open Channels",
+                  "The Night Feels Honest",
+                  "Wood Crackles, Circuits Sleep"
+              ],
+              "MIDNIGHT": [
+                  "Engineer of the Open Range",
+                  "The Frontier Sleeps Light",
+                  "The Mind Rides Alone",
+                  "Engineer | Cartographer | System Dreamer",
+                  "Stars Above, Systems Below",
+                  "Quiet World, Steady Heart",
+                  "The Moon Marks the Hours",
+                  "Stillness Builds Without Witness"
+              ],
+              "LATE_NIGHT": [
+                  "Every Ember Remembers",
+                  "The Frontier Hums Softly",
+                  "Fire Low, Mind High",
+                  "Wanderer | Maker | Frontier-Mind",
+                  "Still Ridin Still Dreamin",
+                  "Silence Carries Its Weight",
+                  "Stars Whisper of Code",
+                  "Data Moves Through Dreams"
+              ],
+              "EARLY_MORNING": [
+                  "Logs Clear, Sky Pale",
+                  "Processes Restart, Intent Restored",
+                  "Rebuilder | Optimist | Loop-Starter",
+                  "Old Lines Meet New Light",
+                  "The World Refreshes Its Cache",
+                  "Reboot Calm, Continue True",
+                  "Systems Hum Beneath the Dawn",
+                  "Morning Finds the Code Awake"
+              ]
+          }
+          
           # Define tagline options for each time period
           taglines = {
               "SUNRISE": [
@@ -259,9 +353,16 @@ jobs:
                   current_theme_data = theme_data
                   break
           
-          # Get random tagline for this time period
+          # Get random tagline for banner
           random_tagline = random.choice(taglines[current_theme_name])
           encoded_tagline = urllib.parse.quote(random_tagline)
+          
+          # Get 3 random typing phrases for this time period
+          random_typing_phrases = random.sample(typing_phrases[current_theme_name], 3)
+          encoded_typing = ";".join([urllib.parse.quote(phrase) for phrase in random_typing_phrases])
+          
+          # Build the typing animation URL
+          typing_animation = f"[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines={encoded_typing})](https://git.io/typing-svg)"
           
           # Build the content with the random tagline
           current_theme = current_theme_data["content_template"].format(tagline=encoded_tagline)
@@ -281,12 +382,18 @@ jobs:
           footer_replacement = f"<!-- FOOTER_WAVE_START -->\n{current_footer}\n<!-- FOOTER_WAVE_END -->"
           updated_content = re.sub(footer_pattern, footer_replacement, updated_content, flags=re.DOTALL)
           
+          # Replace the typing animation section
+          typing_pattern = r'<!-- TYPING_ANIMATION_START -->.*?<!-- TYPING_ANIMATION_END -->'
+          typing_replacement = f"<!-- TYPING_ANIMATION_START -->\n{typing_animation}\n<!-- TYPING_ANIMATION_END -->"
+          updated_content = re.sub(typing_pattern, typing_replacement, updated_content, flags=re.DOTALL)
+          
           # Write back to README
           with open('README.md', 'w', encoding='utf-8') as f:
               f.write(updated_content)
           
           print(f"✅ Updated theme: {current_theme_name} at {current_time.strftime('%I:%M %p %Z')}")
-          print(f"🎲 Random tagline: '{random_tagline}'")
+          print(f"🎲 Random banner tagline: '{random_tagline}'")
+          print(f"⌨️  Random typing phrases: {random_typing_phrases}")
           EOF
           
       - name: Commit and push if changed

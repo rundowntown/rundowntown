@@ -25,8 +25,10 @@
 ---
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=650&height=100&lines=Developer+%7C+Builder+%7C+Problem+Solver;Crafting+Code+in+the+Digital+Frontier;Riding+Through+Bugs+Like+a+Pro)](https://git.io/typing-svg)
+
+<!-- TYPING_ANIMATION_START -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Maker+%7C+Tinkerer+%7C+Trailblazer;Builder+%7C+Breaker+%7C+Dream-Fixer;The+Trail+Connects+Like+Wires)](https://git.io/typing-svg)
+<!-- TYPING_ANIMATION_END -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rundowntown&color=cd853f&style=flat-square&label=Trail+Visitors)
 [![GitHub Followers](https://img.shields.io/github/followers/rundowntown?style=flat-square&color=8B4513&labelColor=2F4F4F&logo=github)](https://github.com/rundowntown)
