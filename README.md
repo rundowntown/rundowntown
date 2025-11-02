@@ -1,7 +1,6 @@
 <!-- Western/Cowboy Theme - Custom Image Banner -->
-<!-- OPTION 1: HTML Overlay (More Control) - Replace IMAGE_URL with your cowboy/western image -->
 <div align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="Header" style="width: 100%; max-height: 350px; object-fit: cover;">
+  <img src="https://raw.githubusercontent.com/rundowntown/rundowntown/main/cowboys.jpg" alt="Header" style="width: 100%; max-height: 350px; object-fit: cover;">
   <h1 style="margin-top: -150px; font-size: 80px; color: #F5F5DC; text-shadow: 3px 3px 8px #000000;">rundowntown</h1>
   <p style="font-size: 24px; color: #DEB887; text-shadow: 2px 2px 4px #000000;">Code. Create. Conquer.</p>
 </div>
