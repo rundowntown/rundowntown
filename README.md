@@ -26,8 +26,6 @@
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB347,100:FDD835&height=3)
 <!-- DIVIDER_1_END -->
 
-<br>
-
 <div align="center">
 
 <!-- TYPING_ANIMATION_START -->
@@ -35,8 +33,6 @@
 <!-- TYPING_ANIMATION_END -->
 
 </div>
-
-<br>
 
 <!-- DIVIDER_2_START -->
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:FDD835,50:FFB347,100:FFA500&height=3)
