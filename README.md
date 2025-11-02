@@ -21,7 +21,7 @@
 ![Time Badge](https://img.shields.io/badge/🌅_DAWN-Rise_and_Ride-FF6B35?style=for-the-badge&labelColor=8B4513)
 ![Current Time](https://img.shields.io/badge/⏰_Local_Time-Morning-FDC830?style=for-the-badge&labelColor=D2691E)
 
-### *"Rise and shine, partner - the frontier awaits"* 🌅
+### *Rise and shine, partner - the frontier awaits*
 
 ☕ Fresh pot on the fire • 🏜️ Trail opens at first light • ⛺ Breaking camp
 
@@ -38,7 +38,7 @@
 ![Time Badge](https://img.shields.io/badge/☀️_HIGH_NOON-Showdown_Time-FFD700?style=for-the-badge&labelColor=8B4513)
 ![Current Time](https://img.shields.io/badge/⏰_Local_Time-Afternoon-DAA520?style=for-the-badge&labelColor=654321)
 
-### *"This town ain't big enough for bugs"* 🤠
+### *This town ain't big enough for bugs*
 
 ☀️ Sun's high, aim's steady • 🌵 High noon showdown • ⚡ Fast as lightning
 
@@ -55,7 +55,7 @@
 ![Time Badge](https://img.shields.io/badge/🌄_DUSK-Headin'_Home-D2691E?style=for-the-badge&labelColor=8B4513)
 ![Current Time](https://img.shields.io/badge/⏰_Local_Time-Evening-CD853F?style=for-the-badge&labelColor=654321)
 
-### *"Headin' home before dark"* 🌅
+### *Headin' home before dark*
 
 🌄 Sun's settin' low • 🐎 Saddle up for home • ✅ Day's work done right
 
@@ -72,7 +72,7 @@
 ![Time Badge](https://img.shields.io/badge/🌙_MIDNIGHT-Night_Watch-4A4A4A?style=for-the-badge&labelColor=2F2F2F)
 ![Current Time](https://img.shields.io/badge/⏰_Local_Time-Late_Night-696969?style=for-the-badge&labelColor=1C1C1C)
 
-### *"The night's dark, but the stars guide true"* 🦉
+### *The night's dark, but the stars guide true*
 
 ✨ Campfire burnin' bright • 🔥 Coffee pot's on • ⭐ Stars showin' the way
 
@@ -89,7 +89,7 @@
 ![Time Badge](https://img.shields.io/badge/🔥_CAMPFIRE-Story_Time-FF4500?style=for-the-badge&labelColor=8B4513)
 ![Status](https://img.shields.io/badge/Status-Sharin'_Tales-FF6347?style=for-the-badge&labelColor=654321)
 
-### *"Gather 'round, I got tales to tell"* 🪵
+### *Gather 'round, I got tales to tell*
 
 📖 Legends of the old west • 🌟 Stories worth sharin' • ☁️ Smoke drifts to the heavens
 
@@ -106,7 +106,7 @@
 ![Time Badge](https://img.shields.io/badge/🏜️_DUSTY_TRAIL-Trail_Blazin'-CD853F?style=for-the-badge&labelColor=8B4513)
 ![Status](https://img.shields.io/badge/Status-Ridin'_Hard-DEB887?style=for-the-badge&labelColor=A0522D)
 
-### *"Blazin' trails where others fear to tread"* 🐴
+### *Blazin' trails where others fear to tread*
 
 🏜️ Uncharted territory ahead • 💨 Dust clouds in our wake • 🌵 Desert stretches far
 
