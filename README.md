@@ -23,7 +23,7 @@
 <!-- TIME_THEME_END -->
 
 <!-- DIVIDER_1_START -->
-![Animated Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB347,100:FDD835&height=3)
 <!-- DIVIDER_1_END -->
 
 <div align="center">
@@ -35,7 +35,7 @@
 </div>
 
 <!-- DIVIDER_2_START -->
-![Animated Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:FDD835,50:FFB347,100:FFA500&height=3)
 <!-- DIVIDER_2_END -->
 
 <div align="center">
