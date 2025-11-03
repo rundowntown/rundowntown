@@ -9,8 +9,14 @@ This file contains all 9 time-of-day themes for reference. The automation will c
 ### Option A: Sunrise Emoji 🌅
 ![Sunrise A](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FF6347,100:FFD700&height=240&section=header&text=%E2%80%83rundowntown%20🌅&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc=Rise.%20Ride.%20Begin.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
 
-### Option B: Sun Breaking Through ☀️
+### Option B: Sun ☀️
 ![Sunrise B](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FF6347,100:FFD700&height=240&section=header&text=%E2%80%83rundowntown%20☀️&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc=Rise.%20Ride.%20Begin.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
+
+### Option D: Sun with Face 🌞
+![Sunrise D](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FF6347,100:FFD700&height=240&section=header&text=%E2%80%83rundowntown%20🌞&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc=Rise.%20Ride.%20Begin.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
+
+### Option E: Sun Behind Cloud ⛅
+![Sunrise E](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FF6347,100:FFD700&height=240&section=header&text=%E2%80%83rundowntown%20⛅&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc=Rise.%20Ride.%20Begin.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
 
 ### Option C: Plain (No Emoji)
 ![Sunrise C](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FF6347,100:FFD700&height=240&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc=Rise.%20Ride.%20Begin.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
@@ -36,6 +42,12 @@ This file contains all 9 time-of-day themes for reference. The automation will c
 ### Option B: Sunrise 🌄
 ![Morning B](https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,50:FFB347,100:FDD835&height=240&section=header&text=%E2%80%83rundowntown%20🌄&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc=Boots%20Down.%20Spirits%20High.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
 
+### Option D: Sun ☀️
+![Morning D](https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,50:FFB347,100:FDD835&height=240&section=header&text=%E2%80%83rundowntown%20☀️&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc=Boots%20Down.%20Spirits%20High.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
+
+### Option E: Sun with Face 🌞
+![Morning E](https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,50:FFB347,100:FDD835&height=240&section=header&text=%E2%80%83rundowntown%20🌞&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc=Boots%20Down.%20Spirits%20High.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
+
 ### Option C: Plain
 ![Morning C](https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,50:FFB347,100:FDD835&height=240&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc=Boots%20Down.%20Spirits%20High.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
 
@@ -59,6 +71,12 @@ This file contains all 9 time-of-day themes for reference. The automation will c
 
 ### Option B: Cactus 🌵
 ![Midday B](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFC107,100:FFEB3B&height=240&section=header&text=%E2%80%83rundowntown%20🌵&fontSize=90&fontColor=8B4513&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Noon%20Sun.%20Clear%20Path.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
+
+### Option D: Sun with Face 🌞
+![Midday D](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFC107,100:FFEB3B&height=240&section=header&text=%E2%80%83rundowntown%20🌞&fontSize=90&fontColor=8B4513&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Noon%20Sun.%20Clear%20Path.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
+
+### Option E: Bright Symbol 🔆
+![Midday E](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFC107,100:FFEB3B&height=240&section=header&text=%E2%80%83rundowntown%20🔆&fontSize=90&fontColor=8B4513&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Noon%20Sun.%20Clear%20Path.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
 
 ### Option C: Plain
 ![Midday C](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFC107,100:FFEB3B&height=240&section=header&text=rundowntown&fontSize=90&fontColor=8B4513&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Noon%20Sun.%20Clear%20Path.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
