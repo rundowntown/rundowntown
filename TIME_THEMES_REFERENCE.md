@@ -59,41 +59,8 @@ This file shows all active themes plus one alternative option for each.
 **ACTIVE:**
 ![Dusk Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=%E2%80%83rundowntown%20⛺&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Lanterns%20Glow.%20Voices%20Fade.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
 
-**Option A: Campfire 🔥**
-![Dusk A](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=%E2%80%83rundowntown%20🔥&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Lanterns%20Glow.%20Voices%20Fade.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
-
-**Option B: Tent ⛺**
-![Dusk B](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=%E2%80%83rundowntown%20⛺&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Lanterns%20Glow.%20Voices%20Fade.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
-
-**Option C: Camping 🏕️**
-![Dusk C](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=%E2%80%83rundowntown%20🏕️&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Lanterns%20Glow.%20Voices%20Fade.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
-
-**Option D: Wood/Logs 🪵**
-![Dusk D](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=%E2%80%83rundowntown%20🪵&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Lanterns%20Glow.%20Voices%20Fade.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
-
-**Option E: Candle 🕯️**
-![Dusk E](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=%E2%80%83rundowntown%20🕯️&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Lanterns%20Glow.%20Voices%20Fade.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
-
-**Option F: Evening Star 💫**
-![Dusk F](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=%E2%80%83rundowntown%20💫&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Lanterns%20Glow.%20Voices%20Fade.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
-
-**Option G: Paper Lantern 🏮**
-![Dusk G](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=%E2%80%83rundowntown%20🏮&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Lanterns%20Glow.%20Voices%20Fade.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
-
-**Option H: Oil Lamp 🪔**
-![Dusk H](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=%E2%80%83rundowntown%20🪔&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Lanterns%20Glow.%20Voices%20Fade.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
-
-**Option I: Owl 🦉**
-![Dusk I](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=%E2%80%83rundowntown%20🦉&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Lanterns%20Glow.%20Voices%20Fade.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
-
-**Option J: Horse Coming Home 🐎**
-![Dusk J](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=%E2%80%83rundowntown%20🐎&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Lanterns%20Glow.%20Voices%20Fade.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
-
-**Option K: Wolf 🐺**
-![Dusk K](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=%E2%80%83rundowntown%20🐺&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Lanterns%20Glow.%20Voices%20Fade.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
-
-**Option L: Shooting Star 🌠**
-![Dusk L](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=%E2%80%83rundowntown%20🌠&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Lanterns%20Glow.%20Voices%20Fade.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
+**Alternative: Campfire 🔥**
+![Dusk Alt](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=%E2%80%83rundowntown%20🔥&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Lanterns%20Glow.%20Voices%20Fade.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
 
 ---
 
