@@ -236,7 +236,7 @@ jobs:
                   "hours": range(10, 13),
                   "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFC107,100:FFEB3B&height=120&section=footer)",
                   "divider": "![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:FFC107,100:FFEB3B&height=3)",
-                  "content_template": '''![Midday Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFC107,100:FFEB3B&height=240&section=header&text=rundowntown&fontSize=90&fontColor=8B4513&stroke=000000&strokeWidth=2&fontAlignY=38&desc={tagline}&descSize=28&descAlignY=58&animation=scaleIn)
+                  "content_template": '''![Midday Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFC107,100:FFEB3B&height=240&section=header&text=%E2%80%83rundowntown%20☀️&fontSize=90&fontColor=8B4513&stroke=000000&strokeWidth=1&fontAlignY=38&desc={tagline}&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
 
           <div align="center">
 
@@ -255,7 +255,7 @@ jobs:
                   "hours": range(13, 17),
                   "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF7F00,100:DAA520&height=120&section=footer)",
                   "divider": "![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FF7F00,100:DAA520&height=3)",
-                  "content_template": '''![Late Afternoon Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF7F00,100:DAA520&height=240&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=38&desc={tagline}&descSize=28&descAlignY=58&animation=twinkling)
+                  "content_template": '''![Late Afternoon Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF7F00,100:DAA520&height=240&section=header&text=%E2%80%83rundowntown%20☀️&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc={tagline}&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
 
           <div align="center">
 
@@ -274,7 +274,7 @@ jobs:
                   "hours": range(17, 19),
                   "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF6347,100:FF8C69&height=120&section=footer)",
                   "divider": "![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:FF4500,50:FF6347,100:FF8C69&height=3)",
-                  "content_template": '''![Evening Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF6347,100:FF8C69&height=240&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=38&desc={tagline}&descSize=28&descAlignY=58&animation=fadeIn)
+                  "content_template": '''![Evening Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF6347,100:FF8C69&height=240&section=header&text=%E2%80%83rundowntown%20🌇&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc={tagline}&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
 
           <div align="center">
 
