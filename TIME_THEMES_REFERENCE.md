@@ -120,8 +120,23 @@ This file contains all 9 time-of-day themes for reference. The automation will c
 ### Option 4: Midnight Blue Stroke
 ![Midnight V4](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown&fontSize=90&fontColor=DAA520&stroke=191970&strokeWidth=2&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&animation=fadeIn)
 
-### Option 5: Add Moon/Stars to Text (⭐ 🌙 in the text itself)
-![Midnight V5](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=⭐%20rundowntown%20🌙&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&animation=fadeIn)
+### Option 5A: Crescent Moon Only
+![Midnight V5A](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown%20🌙&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&animation=fadeIn)
+
+### Option 5B: Full Moon
+![Midnight V5B](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown%20🌕&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&animation=fadeIn)
+
+### Option 5C: Moon Before Name
+![Midnight V5C](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=🌙%20rundowntown&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&animation=fadeIn)
+
+### Option 5D: Multiple Small Stars
+![Midnight V5D](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=✦%20rundowntown%20✦&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&animation=fadeIn)
+
+### Option 5E: Sparkle Effect
+![Midnight V5E](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=✨%20rundowntown%20🌙&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&animation=fadeIn)
+
+### Option 5F: No Stroke + Moon
+![Midnight V5F](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown%20🌙&fontSize=90&fontColor=DAA520&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&animation=fadeIn)
 
 ### Option 6: With stars in tagline
 ![Midnight V6](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown&fontSize=90&fontColor=DAA520&fontAlignY=38&desc=✨%20Stars%20Above.%20Silence%20Below.%20✨&descSize=24&descAlignY=58&animation=fadeIn)
