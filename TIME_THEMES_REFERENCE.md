@@ -168,7 +168,7 @@ This file contains all 9 time-of-day themes for reference. The automation will c
 
 ## 🌙 MIDNIGHT (9pm - 12am)
 
-![Star Section](https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,50:2F4F4F,100:696969&height=60&text=✦%20%20✧%20%20⋆%20%20✦%20%20✧%20%20⋆%20%20✦&fontSize=35&fontColor=DAA520&fontAlignY=50&animation=twinkling)
+![Star Section](https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,50:2F4F4F,100:696969&height=60&text=✦%20%20%20%20%20✧%20%20%20%20%20⋆%20%20%20%20%20✦%20%20%20%20%20✧%20%20%20%20%20⋆%20%20%20%20%20✦&fontSize=35&fontColor=DAA520&fontAlignY=50&animation=twinkling)
 ![Midnight Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=%E2%80%83rundowntown%20🌙&fontSize=90&fontColor=DAA520&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
 
 <div align="center">
