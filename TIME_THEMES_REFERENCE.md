@@ -106,9 +106,25 @@ This file contains all 9 time-of-day themes for reference. The automation will c
 
 ---
 
-## 🌙 MIDNIGHT (9pm - 12am)
+## 🌙 MIDNIGHT (9pm - 12am) - TEST OPTIONS
 
-![Midnight Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=250&section=header&text=rundowntown&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=3&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=twinkling)
+### Option 1: Thinner Black Stroke (strokeWidth=1)
+![Midnight V1](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&animation=fadeIn)
+
+### Option 2: No Stroke (clean)
+![Midnight V2](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown&fontSize=90&fontColor=DAA520&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&animation=fadeIn)
+
+### Option 3: Dark Brown Stroke
+![Midnight V3](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown&fontSize=90&fontColor=DAA520&stroke=8B4513&strokeWidth=2&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&animation=fadeIn)
+
+### Option 4: Midnight Blue Stroke
+![Midnight V4](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown&fontSize=90&fontColor=DAA520&stroke=191970&strokeWidth=2&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&animation=fadeIn)
+
+### Option 5: Add Moon/Stars to Text (⭐ 🌙 in the text itself)
+![Midnight V5](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=⭐%20rundowntown%20🌙&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&animation=fadeIn)
+
+### Option 6: With stars in tagline
+![Midnight V6](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown&fontSize=90&fontColor=DAA520&fontAlignY=38&desc=✨%20Stars%20Above.%20Silence%20Below.%20✨&descSize=24&descAlignY=58&animation=fadeIn)
 
 <div align="center">
 
