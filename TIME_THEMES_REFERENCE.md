@@ -191,6 +191,12 @@ This file contains all 9 time-of-day themes for reference. The automation will c
 ### Option B: Single Star ⭐
 ![Late Night B](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:2F4F4F&height=240&section=header&text=%E2%80%83rundowntown%20⭐&fontSize=90&fontColor=FFFFFF&fontAlignY=38&desc=Only%20the%20Fire%20Still%20Moves.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
 
+### Option D: Small Star ✦
+![Late Night D](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:2F4F4F&height=240&section=header&text=%E2%80%83rundowntown%20✦&fontSize=90&fontColor=FFFFFF&fontAlignY=38&desc=Only%20the%20Fire%20Still%20Moves.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
+
+### Option E: Sparkle ✨
+![Late Night E](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:2F4F4F&height=240&section=header&text=%E2%80%83rundowntown%20✨&fontSize=90&fontColor=FFFFFF&fontAlignY=38&desc=Only%20the%20Fire%20Still%20Moves.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
+
 ### Option C: Plain
 ![Late Night C](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:2F4F4F&height=240&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&fontAlignY=38&desc=Only%20the%20Fire%20Still%20Moves.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
 
@@ -214,6 +220,15 @@ This file contains all 9 time-of-day themes for reference. The automation will c
 
 ### Option B: Star ✨
 ![Early Morning B](https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:6A5ACD&height=240&section=header&text=%E2%80%83rundowntown%20✨&fontSize=90&fontColor=E6E6FA&fontAlignY=38&desc=Before%20Dawn%2C%20the%20World%20Waits.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
+
+### Option D: Small Star ✦
+![Early Morning D](https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:6A5ACD&height=240&section=header&text=%E2%80%83rundowntown%20✦&fontSize=90&fontColor=E6E6FA&fontAlignY=38&desc=Before%20Dawn%2C%20the%20World%20Waits.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
+
+### Option E: Tiny Star ✧
+![Early Morning E](https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:6A5ACD&height=240&section=header&text=%E2%80%83rundowntown%20✧&fontSize=90&fontColor=E6E6FA&fontAlignY=38&desc=Before%20Dawn%2C%20the%20World%20Waits.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
+
+### Option F: Outlined Star ⋆
+![Early Morning F](https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:6A5ACD&height=240&section=header&text=%E2%80%83rundowntown%20⋆&fontSize=90&fontColor=E6E6FA&fontAlignY=38&desc=Before%20Dawn%2C%20the%20World%20Waits.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
 
 ### Option C: Plain
 ![Early Morning C](https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:6A5ACD&height=240&section=header&text=rundowntown&fontSize=90&fontColor=E6E6FA&fontAlignY=38&desc=Before%20Dawn%2C%20the%20World%20Waits.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
