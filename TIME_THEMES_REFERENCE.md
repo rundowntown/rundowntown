@@ -4,9 +4,16 @@ This file contains all 9 time-of-day themes for reference. The automation will c
 
 ---
 
-## 🌅 SUNRISE (5am - 7am)
+## 🌅 SUNRISE (5am - 7am) - TEST OPTIONS
 
-![Sunrise Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FF6347,100:FFD700&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=fadeIn)
+### Option A: Sunrise Emoji 🌅
+![Sunrise A](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FF6347,100:FFD700&height=240&section=header&text=%E2%80%83rundowntown%20🌅&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc=Rise.%20Ride.%20Begin.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
+
+### Option B: Sun Breaking Through ☀️
+![Sunrise B](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FF6347,100:FFD700&height=240&section=header&text=%E2%80%83rundowntown%20☀️&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc=Rise.%20Ride.%20Begin.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
+
+### Option C: Plain (No Emoji)
+![Sunrise C](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FF6347,100:FFD700&height=240&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc=Rise.%20Ride.%20Begin.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
 
 <div align="center">
 
@@ -21,9 +28,16 @@ This file contains all 9 time-of-day themes for reference. The automation will c
 
 ---
 
-## ☕ MORNING (7am - 10am)
+## ☕ MORNING (7am - 10am) - TEST OPTIONS
 
-![Morning Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,50:FFB347,100:FDD835&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=scaleIn)
+### Option A: Coffee Mug ☕
+![Morning A](https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,50:FFB347,100:FDD835&height=240&section=header&text=%E2%80%83rundowntown%20☕&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc=Boots%20Down.%20Spirits%20High.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
+
+### Option B: Sunrise 🌄
+![Morning B](https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,50:FFB347,100:FDD835&height=240&section=header&text=%E2%80%83rundowntown%20🌄&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc=Boots%20Down.%20Spirits%20High.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
+
+### Option C: Plain
+![Morning C](https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,50:FFB347,100:FDD835&height=240&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc=Boots%20Down.%20Spirits%20High.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
 
 <div align="center">
 
@@ -38,9 +52,16 @@ This file contains all 9 time-of-day themes for reference. The automation will c
 
 ---
 
-## ☀️ MIDDAY (10am - 1pm)
+## ☀️ MIDDAY (10am - 1pm) - TEST OPTIONS
 
-![Midday Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFC107,100:FFEB3B&height=250&section=header&text=rundowntown&fontSize=90&fontColor=8B4513&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=scaleIn)
+### Option A: Big Sun ☀️
+![Midday A](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFC107,100:FFEB3B&height=240&section=header&text=%E2%80%83rundowntown%20☀️&fontSize=90&fontColor=8B4513&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Noon%20Sun.%20Clear%20Path.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
+
+### Option B: Cactus 🌵
+![Midday B](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFC107,100:FFEB3B&height=240&section=header&text=%E2%80%83rundowntown%20🌵&fontSize=90&fontColor=8B4513&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Noon%20Sun.%20Clear%20Path.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
+
+### Option C: Plain
+![Midday C](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFC107,100:FFEB3B&height=240&section=header&text=rundowntown&fontSize=90&fontColor=8B4513&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Noon%20Sun.%20Clear%20Path.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
 
 <div align="center">
 
@@ -55,9 +76,16 @@ This file contains all 9 time-of-day themes for reference. The automation will c
 
 ---
 
-## 🔥 LATE AFTERNOON (1pm - 5pm)
+## 🔥 LATE AFTERNOON (1pm - 5pm) - TEST OPTIONS
 
-![Late Afternoon Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF7F00,100:DAA520&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=twinkling)
+### Option A: Fire 🔥
+![Late Afternoon A](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF7F00,100:DAA520&height=240&section=header&text=%E2%80%83rundowntown%20🔥&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc=Heat%27s%20High.%20Keep%20Ridin%27.&descSize=28&descAlignY=58&descAlign=50&animation=twinkling)
+
+### Option B: Desert Sun 🏜️
+![Late Afternoon B](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF7F00,100:DAA520&height=240&section=header&text=%E2%80%83rundowntown%20🏜️&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc=Heat%27s%20High.%20Keep%20Ridin%27.&descSize=28&descAlignY=58&descAlign=50&animation=twinkling)
+
+### Option C: Plain
+![Late Afternoon C](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF7F00,100:DAA520&height=240&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc=Heat%27s%20High.%20Keep%20Ridin%27.&descSize=28&descAlignY=58&descAlign=50&animation=twinkling)
 
 <div align="center">
 
@@ -72,9 +100,16 @@ This file contains all 9 time-of-day themes for reference. The automation will c
 
 ---
 
-## 🌇 EVENING/SUNSET (5pm - 7pm)
+## 🌇 EVENING/SUNSET (5pm - 7pm) - TEST OPTIONS
 
-![Evening Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF6347,100:FF8C69&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=fadeIn)
+### Option A: Sunset 🌇
+![Sunset A](https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF6347,100:FF8C69&height=240&section=header&text=%E2%80%83rundowntown%20🌇&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc=Sun%20Sets.%20Trail%20Rests.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
+
+### Option B: Horse 🐎
+![Sunset B](https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF6347,100:FF8C69&height=240&section=header&text=%E2%80%83rundowntown%20🐎&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc=Sun%20Sets.%20Trail%20Rests.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
+
+### Option C: Plain
+![Sunset C](https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF6347,100:FF8C69&height=240&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc=Sun%20Sets.%20Trail%20Rests.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
 
 <div align="center">
 
@@ -89,9 +124,16 @@ This file contains all 9 time-of-day themes for reference. The automation will c
 
 ---
 
-## 🌆 DUSK (7pm - 9pm)
+## 🌆 DUSK (7pm - 9pm) - TEST OPTIONS
 
-![Dusk Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=250&section=header&text=rundowntown&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=scaleIn)
+### Option A: Campfire 🔥
+![Dusk A](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=%E2%80%83rundowntown%20🔥&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Lanterns%20Glow.%20Voices%20Fade.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
+
+### Option B: Tent ⛺
+![Dusk B](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=%E2%80%83rundowntown%20⛺&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Lanterns%20Glow.%20Voices%20Fade.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
+
+### Option C: Plain
+![Dusk C](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=rundowntown&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Lanterns%20Glow.%20Voices%20Fade.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
 
 <div align="center">
 
@@ -123,9 +165,16 @@ This file contains all 9 time-of-day themes for reference. The automation will c
 
 ---
 
-## 🌌 LATE NIGHT (12am - 3am)
+## 🌌 LATE NIGHT (12am - 3am) - TEST OPTIONS
 
-![Late Night Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:2F4F4F&height=250&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=4169E1&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=twinkling)
+### Option A: Stars 🌌
+![Late Night A](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:2F4F4F&height=240&section=header&text=%E2%80%83rundowntown%20🌌&fontSize=90&fontColor=FFFFFF&fontAlignY=38&desc=Only%20the%20Fire%20Still%20Moves.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
+
+### Option B: Single Star ⭐
+![Late Night B](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:2F4F4F&height=240&section=header&text=%E2%80%83rundowntown%20⭐&fontSize=90&fontColor=FFFFFF&fontAlignY=38&desc=Only%20the%20Fire%20Still%20Moves.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
+
+### Option C: Plain
+![Late Night C](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:2F4F4F&height=240&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&fontAlignY=38&desc=Only%20the%20Fire%20Still%20Moves.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
 
 <div align="center">
 
@@ -140,9 +189,16 @@ This file contains all 9 time-of-day themes for reference. The automation will c
 
 ---
 
-## 🌃 EARLY MORNING (3am - 5am)
+## 🌃 EARLY MORNING (3am - 5am) - TEST OPTIONS
 
-![Early Morning Banner](https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:6A5ACD&height=250&section=header&text=rundowntown&fontSize=90&fontColor=E6E6FA&stroke=000000&strokeWidth=2&fontAlignY=45&desc=Code.%20Create.%20Conquer.&descSize=28&descAlignY=65&animation=fadeIn)
+### Option A: Pre-Dawn 🌃
+![Early Morning A](https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:6A5ACD&height=240&section=header&text=%E2%80%83rundowntown%20🌃&fontSize=90&fontColor=E6E6FA&fontAlignY=38&desc=Before%20Dawn%2C%20the%20World%20Waits.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
+
+### Option B: Star ✨
+![Early Morning B](https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:6A5ACD&height=240&section=header&text=%E2%80%83rundowntown%20✨&fontSize=90&fontColor=E6E6FA&fontAlignY=38&desc=Before%20Dawn%2C%20the%20World%20Waits.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
+
+### Option C: Plain
+![Early Morning C](https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:6A5ACD&height=240&section=header&text=rundowntown&fontSize=90&fontColor=E6E6FA&fontAlignY=38&desc=Before%20Dawn%2C%20the%20World%20Waits.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
 
 <div align="center">
 
