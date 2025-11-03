@@ -129,14 +129,14 @@ This file shows all active themes plus one alternative option for each.
 ---
 
 ## Active Emojis Summary:
-- 🌅 SUNRISE → ☀️ Sun
-- ☕ MORNING → Plain
-- ☀️ MIDDAY → ☀️ Sun
-- 🔥 LATE AFTERNOON → ☀️ Sun
-- 🌇 SUNSET → 🌇 City sunset
-- 🌆 DUSK → Plain
-- 🌙 MIDNIGHT → 🌙 Moon
-- 🌌 LATE NIGHT → Plain
-- 🌃 EARLY MORNING → Plain
+- 🌅 SUNRISE (5am-7am) → ☀️ Sun
+- ☕ MORNING (7am-10am) → Plain
+- ☀️ MIDDAY (10am-1pm) → ☀️ Sun
+- 🔥 LATE AFTERNOON (1pm-5pm) → ☀️ Sun
+- 🌇 SUNSET (5pm-7pm) → 🌇 City sunset
+- 🌆 DUSK (7pm-9pm) → ⛺ Tent
+- 🌙 MIDNIGHT (9pm-12am) → 🌙 Moon
+- 🌌 LATE NIGHT (12am-3am) → ✨ Sparkle
+- 🌃 EARLY MORNING (3am-5am) → ✦ Small star
 
 All use fadeIn or scaleIn animation (no twinkling).
