@@ -120,17 +120,17 @@ This file contains all 9 time-of-day themes for reference. The automation will c
 ### Option 4: Midnight Blue Stroke
 ![Midnight V4](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown&fontSize=90&fontColor=DAA520&stroke=191970&strokeWidth=2&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&animation=fadeIn)
 
-### Option 5A: Crescent Moon Only (FIXED CENTERING)
-![Midnight V5A](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown%20🌙&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
+### Option 5A: Crescent Moon + Thin Stroke (Best Alignment)
+![Midnight V5A](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown%20🌙&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=1&fontAlign=48&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
 
-### Option 5B: Full Moon (FIXED CENTERING)
-![Midnight V5B](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown%20🌕&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
+### Option 5B: Full Moon + Thin Stroke
+![Midnight V5B](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown%20🌕&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=1&fontAlign=48&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
 
-### Option 5A-ALT: Crescent Moon + No Stroke
-![Midnight V5A-Alt](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown%20🌙&fontSize=90&fontColor=DAA520&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
+### Option 5A-ALT: Crescent Moon + No Stroke (Sleekest!)
+![Midnight V5A-Alt](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown%20🌙&fontSize=90&fontColor=DAA520&fontAlign=48&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
 
 ### Option 5B-ALT: Full Moon + No Stroke
-![Midnight V5B-Alt](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown%20🌕&fontSize=90&fontColor=DAA520&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
+![Midnight V5B-Alt](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown%20🌕&fontSize=90&fontColor=DAA520&fontAlign=48&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
 
 ### Option 5C: Moon Before Name
 ![Midnight V5C](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=🌙%20rundowntown&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&animation=fadeIn)
