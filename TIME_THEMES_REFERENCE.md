@@ -57,7 +57,7 @@ This file shows all active themes plus one alternative option for each.
 ## 🌆 DUSK (7pm - 9pm)
 
 **ACTIVE:**
-![Dusk Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=rundowntown&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Lanterns%20Glow.%20Voices%20Fade.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
+![Dusk Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=%E2%80%83rundowntown%20⛺&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Lanterns%20Glow.%20Voices%20Fade.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
 
 **Option A: Campfire 🔥**
 ![Dusk A](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=%E2%80%83rundowntown%20🔥&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Lanterns%20Glow.%20Voices%20Fade.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
