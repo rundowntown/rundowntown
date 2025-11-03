@@ -166,47 +166,9 @@ This file contains all 9 time-of-day themes for reference. The automation will c
 
 ---
 
-## 🌙 MIDNIGHT (9pm - 12am) - WITH DECORATIVE STARS
+## 🌙 MIDNIGHT (9pm - 12am)
 
-### Option 1A: Table Wrapper Method (BEST)
-<table style="border-collapse:collapse;border-spacing:0;margin:0;padding:0;width:100%">
-  <tr>
-    <td style="padding:0;margin:0;border:0;line-height:0">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,50:2F4F4F,100:696969&height=50&text=✦%20✧%20⋆%20✦%20✧&fontSize=30&fontColor=DAA520&fontAlignY=50&animation=twinkling"
-           style="display:block;margin:0;line-height:0;max-width:100%;width:100%" />
-    </td>
-  </tr>
-  <tr>
-    <td style="padding:0;margin:0;border:0;line-height:0">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=%E2%80%83rundowntown%20🌙&fontSize=90&fontColor=DAA520&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn"
-           style="display:block;margin:0;line-height:0;max-width:100%;width:100%" />
-    </td>
-  </tr>
-</table>
-
-### Option 1B: Negative Margin Overlap
-<p style="margin:0;padding:0;line-height:0">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,50:2F4F4F,100:696969&height=50&text=✦%20✧%20⋆%20✦%20✧&fontSize=30&fontColor=DAA520&fontAlignY=50&animation=twinkling" style="display:block;margin:0;line-height:0;width:100%;max-width:100%" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=%E2%80%83rundowntown%20🌙&fontSize=90&fontColor=DAA520&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn" style="display:block;margin:-1px 0 0 0;line-height:0;width:100%;max-width:100%" />
-</p>
-
-### Option 2: Taller Star Section - NO GAP
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,50:2F4F4F,100:696969&height=60&text=✦%20✧%20⋆%20✦%20✧%20⋆%20✦&fontSize=35&fontColor=DAA520&fontAlignY=50&animation=twinkling" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=%E2%80%83rundowntown%20🌙&fontSize=90&fontColor=DAA520&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn" />
-</p>
-
-### Option 3: Sparkles (White) - NO GAP
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,50:2F4F4F,100:696969&height=50&text=✨%20⭐%20✨&fontSize=30&fontColor=FFFFFF&fontAlignY=50&animation=twinkling" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=%E2%80%83rundowntown%20🌙&fontSize=90&fontColor=DAA520&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn" />
-</p>
-
-### Option 4: Subtle Dots
-![Star Section](https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,50:2F4F4F,100:696969&height=40&text=·%20·%20·%20·%20·&fontSize=25&fontColor=696969&fontAlignY=50&animation=twinkling)
-![Midnight Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=%E2%80%83rundowntown%20🌙&fontSize=90&fontColor=DAA520&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
-
-### Option 5: No Decoration (Current)
+![Star Section](https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,50:2F4F4F,100:696969&height=60&text=✦%20%20✧%20%20⋆%20%20✦%20%20✧%20%20⋆%20%20✦&fontSize=35&fontColor=DAA520&fontAlignY=50&animation=twinkling)
 ![Midnight Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=%E2%80%83rundowntown%20🌙&fontSize=90&fontColor=DAA520&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
 
 <div align="center">
