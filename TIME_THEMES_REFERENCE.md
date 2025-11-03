@@ -111,20 +111,20 @@ This file shows all active themes plus one alternative option for each.
 ## 🌌 LATE NIGHT (12am - 3am)
 
 **ACTIVE:**
-![Late Night Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:2F4F4F&height=240&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&fontAlignY=38&desc=Only%20the%20Fire%20Still%20Moves.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
+![Late Night Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:2F4F4F&height=240&section=header&text=%E2%80%83rundowntown%20✨&fontSize=90&fontColor=FFFFFF&fontAlignY=38&desc=Only%20the%20Fire%20Still%20Moves.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
 
-**Alternative: Sparkle ✨**
-![Late Night Alt](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:2F4F4F&height=240&section=header&text=%E2%80%83rundowntown%20✨&fontSize=90&fontColor=FFFFFF&fontAlignY=38&desc=Only%20the%20Fire%20Still%20Moves.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
+**Alternative: Plain**
+![Late Night Alt](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:2F4F4F&height=240&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&fontAlignY=38&desc=Only%20the%20Fire%20Still%20Moves.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
 
 ---
 
 ## 🌃 EARLY MORNING (3am - 5am)
 
 **ACTIVE:**
-![Early Morning Banner](https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:6A5ACD&height=240&section=header&text=rundowntown&fontSize=90&fontColor=E6E6FA&fontAlignY=38&desc=Before%20Dawn%2C%20the%20World%20Waits.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
+![Early Morning Banner](https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:6A5ACD&height=240&section=header&text=%E2%80%83rundowntown%20✦&fontSize=90&fontColor=E6E6FA&fontAlignY=38&desc=Before%20Dawn%2C%20the%20World%20Waits.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
 
-**Alternative: Small Star ✦**
-![Early Morning Alt](https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:6A5ACD&height=240&section=header&text=%E2%80%83rundowntown%20✦&fontSize=90&fontColor=E6E6FA&fontAlignY=38&desc=Before%20Dawn%2C%20the%20World%20Waits.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
+**Alternative: Plain**
+![Early Morning Alt](https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:6A5ACD&height=240&section=header&text=rundowntown&fontSize=90&fontColor=E6E6FA&fontAlignY=38&desc=Before%20Dawn%2C%20the%20World%20Waits.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
 
 ---
 
