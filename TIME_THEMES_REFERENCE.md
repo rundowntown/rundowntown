@@ -83,6 +83,18 @@ This file shows all active themes plus one alternative option for each.
 **Option H: Oil Lamp 🪔**
 ![Dusk H](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=%E2%80%83rundowntown%20🪔&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Lanterns%20Glow.%20Voices%20Fade.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
 
+**Option I: Owl 🦉**
+![Dusk I](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=%E2%80%83rundowntown%20🦉&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Lanterns%20Glow.%20Voices%20Fade.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
+
+**Option J: Horse Coming Home 🐎**
+![Dusk J](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=%E2%80%83rundowntown%20🐎&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Lanterns%20Glow.%20Voices%20Fade.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
+
+**Option K: Wolf 🐺**
+![Dusk K](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=%E2%80%83rundowntown%20🐺&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Lanterns%20Glow.%20Voices%20Fade.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
+
+**Option L: Shooting Star 🌠**
+![Dusk L](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=%E2%80%83rundowntown%20🌠&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Lanterns%20Glow.%20Voices%20Fade.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
+
 ---
 
 ## 🌙 MIDNIGHT (9pm - 12am)
