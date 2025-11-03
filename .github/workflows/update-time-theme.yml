@@ -293,7 +293,7 @@ jobs:
                   "hours": range(19, 21),
                   "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=120&section=footer)",
                   "divider": "![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:8B4513,50:A0522D,100:CD853F&height=3)",
-                  "content_template": '''![Dusk Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=220&section=header&text=rundowntown&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=2&fontAlignY=42&desc={tagline}&descSize=28&descAlignY=62&animation=scaleIn)
+                  "content_template": '''![Dusk Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=%E2%80%83rundowntown%20⛺&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc={tagline}&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
 
           <div align="center">
 
