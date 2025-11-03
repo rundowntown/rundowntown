@@ -106,58 +106,9 @@ This file contains all 9 time-of-day themes for reference. The automation will c
 
 ---
 
-## 🌙 MIDNIGHT (9pm - 12am) - TEST OPTIONS
+## 🌙 MIDNIGHT (9pm - 12am)
 
-### Option 1: Thinner Black Stroke (strokeWidth=1)
-![Midnight V1](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&animation=fadeIn)
-
-### Option 2: No Stroke (clean)
-![Midnight V2](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown&fontSize=90&fontColor=DAA520&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&animation=fadeIn)
-
-### Option 3: Dark Brown Stroke
-![Midnight V3](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown&fontSize=90&fontColor=DAA520&stroke=8B4513&strokeWidth=2&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&animation=fadeIn)
-
-### Option 4: Midnight Blue Stroke
-![Midnight V4](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown&fontSize=90&fontColor=DAA520&stroke=191970&strokeWidth=2&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&animation=fadeIn)
-
-### Option 5A: Crescent Moon + Thin Stroke (Best Alignment)
-![Midnight V5A](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown%20🌙&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=1&fontAlign=48&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
-
-### Option 5B: Full Moon + Thin Stroke
-![Midnight V5B](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown%20🌕&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=1&fontAlign=48&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
-
-### Option 5A-ALT: Crescent Moon + No Stroke (Sleekest!)
-![Midnight V5A-Alt](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown%20🌙&fontSize=90&fontColor=DAA520&fontAlign=48&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
-
-### Option 5B-ALT: Full Moon + No Stroke
-![Midnight V5B-Alt](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown%20🌕&fontSize=90&fontColor=DAA520&fontAlign=48&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
-
-### Option 7A: Less Spacing (Moon Won't Cut Off)
-![Midnight V7A](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=%E2%80%83rundowntown%20🌙&fontSize=90&fontColor=DAA520&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
-
-### Option 7B: Just One Space
-![Midnight V7B](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=%20rundowntown%20🌙&fontSize=90&fontColor=DAA520&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
-
-### Option 7C: Smaller Font (More Room)
-![Midnight V7C](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=%E2%80%83rundowntown%20🌙&fontSize=85&fontColor=DAA520&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
-
-### Option 8: Moon on Both Sides (Symmetrical)
-![Midnight V8](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=🌙%20rundowntown%20🌙&fontSize=90&fontColor=DAA520&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
-
-### Option 5C: Moon Before Name
-![Midnight V5C](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=🌙%20rundowntown&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&animation=fadeIn)
-
-### Option 5D: Multiple Small Stars
-![Midnight V5D](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=✦%20rundowntown%20✦&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&animation=fadeIn)
-
-### Option 5E: Sparkle Effect
-![Midnight V5E](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=✨%20rundowntown%20🌙&fontSize=90&fontColor=DAA520&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&animation=fadeIn)
-
-### Option 5F: No Stroke + Moon
-![Midnight V5F](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown%20🌙&fontSize=90&fontColor=DAA520&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&animation=fadeIn)
-
-### Option 6: With stars in tagline
-![Midnight V6](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=rundowntown&fontSize=90&fontColor=DAA520&fontAlignY=38&desc=✨%20Stars%20Above.%20Silence%20Below.%20✨&descSize=24&descAlignY=58&animation=fadeIn)
+![Midnight Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=%E2%80%83rundowntown%20🌙&fontSize=90&fontColor=DAA520&fontAlignY=38&desc=Stars%20Above.%20Silence%20Below.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
 
 <div align="center">
 
