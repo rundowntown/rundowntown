@@ -2,7 +2,7 @@
 
 <!-- TIME_THEME_START -->
 
-![Late Afternoon Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF7F00,100:DAA520&height=240&section=header&text=%E2%80%83rundowntown%20☀️&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc=The%20Long%20Ride%20Tests%20All.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
+![Late Afternoon Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF7F00,100:DAA520&height=240&section=header&text=%E2%80%83rundowntown%20☀️&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc=Hold%20Fast.%20Press%20On.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 <div align="center">
 
 <!-- TYPING_ANIMATION_START -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Every%20Patch%20Earned%20Twice;Dust%20Rises%2C%20Focus%20Holds;No%20Bug%20Too%20Wild;Quiet%20Pressure%2C%20Honest%20Fix;The%20Wolves%20Know%20the%20Deadline;Ain%27t%20My%20First%20Bug%20Rodeo;Breakpoints%20Set%2C%20Calm%20Under%20Heat;Fixer%20%7C%20Wrangler%20%7C%20Deadline%20Whisperer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Ain%27t%20My%20First%20Bug%20Rodeo;No%20Bug%20Too%20Wild;Every%20Patch%20Earned%20Twice;Dust%20Rises%2C%20Focus%20Holds;Fixer%20%7C%20Wrangler%20%7C%20Deadline%20Whisperer;The%20Wolves%20Know%20the%20Deadline;Quiet%20Pressure%2C%20Honest%20Fix;Breakpoints%20Set%2C%20Calm%20Under%20Heat)](https://git.io/typing-svg)
 <!-- TYPING_ANIMATION_END -->
 
 </div>
