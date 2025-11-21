@@ -2,7 +2,7 @@
 
 <!-- TIME_THEME_START -->
 
-![Late Night Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:2F4F4F&height=220&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=4169E1&strokeWidth=2&fontAlignY=42&desc=Only%20the%20Fire%20Still%20Moves.&descSize=28&descAlignY=62&animation=twinkling)
+![Late Night Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:2F4F4F&height=220&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=4169E1&strokeWidth=2&fontAlignY=42&desc=Whispers%20Across%20the%20Plain.&descSize=28&descAlignY=62&animation=twinkling)
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 <div align="center">
 
 <!-- TYPING_ANIMATION_START -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Fire%20Low%2C%20Mind%20High;Data%20Moves%20Through%20Dreams;Silence%20Carries%20Its%20Weight;The%20Frontier%20Hums%20Softly;Still%20Ridin%20Still%20Dreamin;Stars%20Whisper%20of%20Code;Every%20Ember%20Remembers;Wanderer%20%7C%20Maker%20%7C%20Frontier-Mind)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Still%20Ridin%20Still%20Dreamin;Stars%20Whisper%20of%20Code;Data%20Moves%20Through%20Dreams;The%20Frontier%20Hums%20Softly;Wanderer%20%7C%20Maker%20%7C%20Frontier-Mind;Every%20Ember%20Remembers;Fire%20Low%2C%20Mind%20High;Silence%20Carries%20Its%20Weight)](https://git.io/typing-svg)
 <!-- TYPING_ANIMATION_END -->
 
 </div>
