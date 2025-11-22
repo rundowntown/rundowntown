@@ -2,7 +2,7 @@
 
 <!-- TIME_THEME_START -->
 
-![Midnight Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=%E2%80%83rundowntown%20🌙&fontSize=90&fontColor=DAA520&fontAlignY=38&desc=Moon%20Watches%20All.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
+![Midnight Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=%E2%80%83rundowntown%20🌙&fontSize=90&fontColor=DAA520&fontAlignY=38&desc=The%20Frontier%20Sleeps%20Light.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 <div align="center">
 
 <!-- TYPING_ANIMATION_START -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Engineer%20of%20the%20Open%20Range;The%20Mind%20Rides%20Alone;Quiet%20World%2C%20Steady%20Heart;Stillness%20Builds%20Without%20Witness;Engineer%20%7C%20Cartographer%20%7C%20System%20Dreamer;Stars%20Above%2C%20Systems%20Below;The%20Moon%20Marks%20the%20Hours;The%20Frontier%20Sleeps%20Light)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=The%20Frontier%20Sleeps%20Light;Engineer%20of%20the%20Open%20Range;Stillness%20Builds%20Without%20Witness;The%20Mind%20Rides%20Alone;The%20Moon%20Marks%20the%20Hours;Stars%20Above%2C%20Systems%20Below;Engineer%20%7C%20Cartographer%20%7C%20System%20Dreamer;Quiet%20World%2C%20Steady%20Heart)](https://git.io/typing-svg)
 <!-- TYPING_ANIMATION_END -->
 
 </div>
