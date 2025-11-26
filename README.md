@@ -2,7 +2,7 @@
 
 <!-- TIME_THEME_START -->
 
-![Morning Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,50:FFB347,100:FDD835&height=240&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=38&desc=Saddled%20and%20Steady.&descSize=28&descAlignY=58&animation=scaleIn)
+![Morning Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,50:FFB347,100:FDD835&height=240&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=38&desc=The%20Trail%20Calls.%20We%20Answer.&descSize=28&descAlignY=58&animation=scaleIn)
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 <div align="center">
 
 <!-- TYPING_ANIMATION_START -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Builder%20%7C%20Breaker%20%7C%20Dream-Fixer;Structure%20Grows%2C%20Silence%20Holds;Maker%20%7C%20Architect%20%7C%20Foundation-Layer;Systems%20Hum%20Toward%20Noon;Maker%20%7C%20Tinkerer%20%7C%20Trailblazer;Syntax%20Settles%20Like%20Sand;Logic%20Lines%2C%20Simple%20Purpose;The%20Trail%20Connects%20Like%20Wires)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Structure%20Grows%2C%20Silence%20Holds;Maker%20%7C%20Tinkerer%20%7C%20Trailblazer;Logic%20Lines%2C%20Simple%20Purpose;Builder%20%7C%20Breaker%20%7C%20Dream-Fixer;Syntax%20Settles%20Like%20Sand;The%20Trail%20Connects%20Like%20Wires;Systems%20Hum%20Toward%20Noon;Maker%20%7C%20Architect%20%7C%20Foundation-Layer)](https://git.io/typing-svg)
 <!-- TYPING_ANIMATION_END -->
 
 </div>
