@@ -26,7 +26,7 @@
 <div align="center">
 
 <!-- TYPING_ANIMATION_START -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Quiet%20Pressure%2C%20Honest%20Fix;Every%20Patch%20Earned%20Twice;Ain%27t%20My%20First%20Bug%20Rodeo;No%20Bug%20Too%20Wild;Fixer%20%7C%20Wrangler%20%7C%20Deadline%20Whisperer;Breakpoints%20Set%2C%20Calm%20Under%20Heat;Dust%20Rises%2C%20Focus%20Holds;The%20Wolves%20Know%20the%20Deadline)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=No%20Bug%20Too%20Wild;Fixer%20%7C%20Wrangler%20%7C%20Deadline%20Whisperer;Ain%27t%20My%20First%20Bug%20Rodeo;Every%20Patch%20Earned%20Twice;Quiet%20Pressure%2C%20Honest%20Fix;The%20Wolves%20Know%20the%20Deadline;Dust%20Rises%2C%20Focus%20Holds;Breakpoints%20Set%2C%20Calm%20Under%20Heat)](https://git.io/typing-svg)
 <!-- TYPING_ANIMATION_END -->
 
 </div>
