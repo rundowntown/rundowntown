@@ -2,37 +2,37 @@
 
 <!-- TIME_THEME_START -->
 
-![Late Night Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:2F4F4F&height=220&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=4169E1&strokeWidth=2&fontAlignY=42&desc=Whispers%20Across%20the%20Plain.&descSize=28&descAlignY=62&animation=twinkling)
+![Early Morning Banner](https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:6A5ACD&height=240&section=header&text=%E2%80%83rundowntown%20✦&fontSize=90&fontColor=E6E6FA&fontAlignY=38&desc=The%20Quiet%20Before%20the%20Ride.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
 
 <div align="center">
 
-![Time Badge](https://img.shields.io/badge/🌌_LATE_NIGHT-Dead_of_Night-191970?style=for-the-badge&labelColor=000000)
-![Current Time](https://img.shields.io/badge/⏰_Time-12am--3am-2F4F4F?style=for-the-badge&labelColor=0C0C0C)
+![Time Badge](https://img.shields.io/badge/🌃_PRE--DAWN-Before_the_Light-483D8B?style=for-the-badge&labelColor=191970)
+![Current Time](https://img.shields.io/badge/⏰_Time-3am--5am-6A5ACD?style=for-the-badge&labelColor=2F2F4F)
 
-<img width="300" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:191970,100:2F4F4F&height=3" />
+<img width="300" src="https://capsule-render.vercel.app/api?type=rect&color=0:191970,50:483D8B,100:6A5ACD&height=3" />
 
-### *Only the coyotes and night riders awake*
+### *The quietest hour, dawn's just a promise*
 
-🦉 Silence reigns • 🌌 Stars blanket the sky • 🔥 Embers still warm
+🌌 Darkness holds strong • ⭐ Last of the night watch • 🌅 Horizon hints at change
 
 </div>
 
 <!-- TIME_THEME_END -->
 
 <!-- DIVIDER_1_START -->
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:191970,100:2F4F4F&height=3)
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:191970,50:483D8B,100:6A5ACD&height=3)
 <!-- DIVIDER_1_END -->
 
 <div align="center">
 
 <!-- TYPING_ANIMATION_START -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Silence%20Carries%20Its%20Weight;Fire%20Low%2C%20Mind%20High;Still%20Ridin%20Still%20Dreamin;Every%20Ember%20Remembers;Stars%20Whisper%20of%20Code;Data%20Moves%20Through%20Dreams;The%20Frontier%20Hums%20Softly;Wanderer%20%7C%20Maker%20%7C%20Frontier-Mind)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Logs%20Clear%2C%20Sky%20Pale;Rebuilder%20%7C%20Optimist%20%7C%20Loop-Starter;Processes%20Restart%2C%20Intent%20Restored;Systems%20Hum%20Beneath%20the%20Dawn;The%20World%20Refreshes%20Its%20Cache;Morning%20Finds%20the%20Code%20Awake;Reboot%20Calm%2C%20Continue%20True;Old%20Lines%20Meet%20New%20Light)](https://git.io/typing-svg)
 <!-- TYPING_ANIMATION_END -->
 
 </div>
 
 <!-- DIVIDER_2_START -->
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:2F4F4F,50:191970,100:000000&height=3)
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,50:483D8B,100:191970&height=3)
 <!-- DIVIDER_2_END -->
 
 <div align="center">
@@ -46,7 +46,7 @@
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rundowntown&query=$.public_repos&style=flat-square&color=DAA520&labelColor=2F4F4F&label=Camps+Built&logo=github)
 <!-- DIVIDER_3_START -->
 <div align="center">
-<img width="400" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:191970,100:2F4F4F&height=2" />
+<img width="400" src="https://capsule-render.vercel.app/api?type=rect&color=0:191970,50:483D8B,100:6A5ACD&height=2" />
 </div>
 <!-- DIVIDER_3_END -->
 
@@ -68,7 +68,7 @@
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 <!-- FOOTER_WAVE_START -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:2F4F4F&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:6A5ACD&height=120&section=footer)
 <!-- FOOTER_WAVE_END -->
 
 </div>
