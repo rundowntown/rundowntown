@@ -2,7 +2,7 @@
 
 <!-- TIME_THEME_START -->
 
-![Sunrise Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FF6347,100:FFD700&height=240&section=header&text=%E2%80%83rundowntown%20☀️&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc=The%20Day%20Awakes.%20So%20Do%20We.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
+![Sunrise Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FF6347,100:FFD700&height=240&section=header&text=%E2%80%83rundowntown%20☀️&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc=Where%20Dawn%20Meets%20Dust.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 <div align="center">
 
 <!-- TYPING_ANIMATION_START -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=The%20Day%20Compiles%20Clean;Systems%20Wake%2C%20Dust%20Lifts;First%20Light%2C%20Fresh%20Build;Tools%20Ready%20%7C%20Sky%20Clear;Bootstrapped%20%7C%20Builder%20%7C%20Dawn-Seeker;Input%20Set%2C%20Output%20Unknown;A%20New%20Loop%20Begins;Hello%20World%2C%20Again)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Tools%20Ready%20%7C%20Sky%20Clear;Systems%20Wake%2C%20Dust%20Lifts;The%20Day%20Compiles%20Clean;A%20New%20Loop%20Begins;Hello%20World%2C%20Again;Bootstrapped%20%7C%20Builder%20%7C%20Dawn-Seeker;Input%20Set%2C%20Output%20Unknown;First%20Light%2C%20Fresh%20Build)](https://git.io/typing-svg)
 <!-- TYPING_ANIMATION_END -->
 
 </div>
