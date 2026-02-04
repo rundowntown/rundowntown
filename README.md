@@ -2,7 +2,7 @@
 
 <!-- TIME_THEME_START -->
 
-![Early Morning Banner](https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:6A5ACD&height=240&section=header&text=%E2%80%83rundowntown%20✦&fontSize=90&fontColor=E6E6FA&fontAlignY=38&desc=Before%20Dawn%2C%20the%20World%20Waits.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
+![Early Morning Banner](https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:6A5ACD&height=240&section=header&text=%E2%80%83rundowntown%20✦&fontSize=90&fontColor=E6E6FA&fontAlignY=38&desc=Darkness%20Makes%20Room%20for%20Light.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 <div align="center">
 
 <!-- TYPING_ANIMATION_START -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Reboot%20Calm%2C%20Continue%20True;Processes%20Restart%2C%20Intent%20Restored;Systems%20Hum%20Beneath%20the%20Dawn;Logs%20Clear%2C%20Sky%20Pale;Morning%20Finds%20the%20Code%20Awake;Rebuilder%20%7C%20Optimist%20%7C%20Loop-Starter;Old%20Lines%20Meet%20New%20Light;The%20World%20Refreshes%20Its%20Cache)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Old%20Lines%20Meet%20New%20Light;Processes%20Restart%2C%20Intent%20Restored;Reboot%20Calm%2C%20Continue%20True;Logs%20Clear%2C%20Sky%20Pale;Rebuilder%20%7C%20Optimist%20%7C%20Loop-Starter;Systems%20Hum%20Beneath%20the%20Dawn;The%20World%20Refreshes%20Its%20Cache;Morning%20Finds%20the%20Code%20Awake)](https://git.io/typing-svg)
 <!-- TYPING_ANIMATION_END -->
 
 </div>
