@@ -26,7 +26,7 @@
 <div align="center">
 
 <!-- TYPING_ANIMATION_START -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Circuits%20Never%20Sleep;Still%20Hands%2C%20Moving%20Thought;Steady%20Pulse%2C%20Endless%20Code;Current%20Flows%2C%20Dust%20Rises;Developer%20%7C%20Craftsman%20%7C%20Problem%20Solver;Data%20Rides%20the%20Heat;The%20Frontier%20Hums%20Low;The%20Range%20Listens%20Back)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Steady%20Pulse%2C%20Endless%20Code;Circuits%20Never%20Sleep;Still%20Hands%2C%20Moving%20Thought;The%20Frontier%20Hums%20Low;Current%20Flows%2C%20Dust%20Rises;The%20Range%20Listens%20Back;Data%20Rides%20the%20Heat;Developer%20%7C%20Craftsman%20%7C%20Problem%20Solver)](https://git.io/typing-svg)
 <!-- TYPING_ANIMATION_END -->
 
 </div>
