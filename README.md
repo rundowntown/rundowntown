@@ -2,7 +2,7 @@
 
 <!-- TIME_THEME_START -->
 
-![Midday Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFC107,100:FFEB3B&height=240&section=header&text=%E2%80%83rundowntown%20☀️&fontSize=90&fontColor=8B4513&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Noon%20Sun.%20Clear%20Path.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
+![Midday Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFC107,100:FFEB3B&height=240&section=header&text=%E2%80%83rundowntown%20☀️&fontSize=90&fontColor=8B4513&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Keep%20the%20Pace.%20Hold%20the%20Line.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 <div align="center">
 
 <!-- TYPING_ANIMATION_START -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Still%20Hands%2C%20Moving%20Thought;Data%20Rides%20the%20Heat;Steady%20Pulse%2C%20Endless%20Code;Current%20Flows%2C%20Dust%20Rises;Circuits%20Never%20Sleep;The%20Frontier%20Hums%20Low;The%20Range%20Listens%20Back;Developer%20%7C%20Craftsman%20%7C%20Problem%20Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Developer%20%7C%20Craftsman%20%7C%20Problem%20Solver;Steady%20Pulse%2C%20Endless%20Code;The%20Frontier%20Hums%20Low;Current%20Flows%2C%20Dust%20Rises;Circuits%20Never%20Sleep;The%20Range%20Listens%20Back;Still%20Hands%2C%20Moving%20Thought;Data%20Rides%20the%20Heat)](https://git.io/typing-svg)
 <!-- TYPING_ANIMATION_END -->
 
 </div>
