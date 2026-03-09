@@ -26,7 +26,7 @@
 <div align="center">
 
 <!-- TYPING_ANIMATION_START -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Code%20Cools%20as%20Light%20Fades;Lines%20Written%2C%20Errors%20Forgiven;Another%20Day%2C%20Another%20Merge;Save%20Early%20%7C%20Sleep%20Late;Campfire%20Commits%20and%20Quiet%20Logs;The%20Build%20Holds%20Through%20Dusk;The%20Horizon%20Stores%20the%20Version;Thinker%20%7C%20Editor%20%7C%20Pattern-Finder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=The%20Build%20Holds%20Through%20Dusk;Lines%20Written%2C%20Errors%20Forgiven;Save%20Early%20%7C%20Sleep%20Late;The%20Horizon%20Stores%20the%20Version;Another%20Day%2C%20Another%20Merge;Campfire%20Commits%20and%20Quiet%20Logs;Thinker%20%7C%20Editor%20%7C%20Pattern-Finder;Code%20Cools%20as%20Light%20Fades)](https://git.io/typing-svg)
 <!-- TYPING_ANIMATION_END -->
 
 </div>
