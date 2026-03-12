@@ -2,7 +2,7 @@
 
 <!-- TIME_THEME_START -->
 
-![Dusk Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=%E2%80%83rundowntown%20⛺&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Camp%27s%20Warm.%20Sky%20Cool.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
+![Dusk Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=%E2%80%83rundowntown%20⛺&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc=Home%20by%20the%20Last%20Light.&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 <div align="center">
 
 <!-- TYPING_ANIMATION_START -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Quiet%20Voices%20%7C%20Open%20Channels;Firelight%20Flickers%2C%20Thoughts%20Wander;Wood%20Crackles%2C%20Circuits%20Sleep;The%20Night%20Feels%20Honest;Shared%20Warmth%2C%20Shared%20Repos;Campfire%20Reflections%2C%20Commit%20Confessions;Storyteller%20%7C%20Debugger%20%7C%20Signal-Keeper;Sparks%20Rise%20Like%20Signals)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=The%20Night%20Feels%20Honest;Wood%20Crackles%2C%20Circuits%20Sleep;Sparks%20Rise%20Like%20Signals;Campfire%20Reflections%2C%20Commit%20Confessions;Shared%20Warmth%2C%20Shared%20Repos;Quiet%20Voices%20%7C%20Open%20Channels;Storyteller%20%7C%20Debugger%20%7C%20Signal-Keeper;Firelight%20Flickers%2C%20Thoughts%20Wander)](https://git.io/typing-svg)
 <!-- TYPING_ANIMATION_END -->
 
 </div>
