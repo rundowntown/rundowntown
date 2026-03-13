@@ -2,7 +2,7 @@
 
 <!-- TIME_THEME_START -->
 
-![Evening Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF6347,100:FF8C69&height=240&section=header&text=%E2%80%83rundowntown%20🌇&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc=Sun%20Sets.%20Trail%20Rests.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
+![Evening Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF6347,100:FF8C69&height=240&section=header&text=%E2%80%83rundowntown%20🌇&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc=Gold%20Sky%2C%20Quiet%20Pride.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 <div align="center">
 
 <!-- TYPING_ANIMATION_START -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Save%20Early%20%7C%20Sleep%20Late;Another%20Day%2C%20Another%20Merge;Code%20Cools%20as%20Light%20Fades;The%20Build%20Holds%20Through%20Dusk;Campfire%20Commits%20and%20Quiet%20Logs;Lines%20Written%2C%20Errors%20Forgiven;The%20Horizon%20Stores%20the%20Version;Thinker%20%7C%20Editor%20%7C%20Pattern-Finder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Save%20Early%20%7C%20Sleep%20Late;Another%20Day%2C%20Another%20Merge;Campfire%20Commits%20and%20Quiet%20Logs;The%20Build%20Holds%20Through%20Dusk;Thinker%20%7C%20Editor%20%7C%20Pattern-Finder;Lines%20Written%2C%20Errors%20Forgiven;The%20Horizon%20Stores%20the%20Version;Code%20Cools%20as%20Light%20Fades)](https://git.io/typing-svg)
 <!-- TYPING_ANIMATION_END -->
 
 </div>
