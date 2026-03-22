@@ -26,7 +26,7 @@
 <div align="center">
 
 <!-- TYPING_ANIMATION_START -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Systems%20Hum%20Beneath%20the%20Dawn;Processes%20Restart%2C%20Intent%20Restored;Logs%20Clear%2C%20Sky%20Pale;Reboot%20Calm%2C%20Continue%20True;Old%20Lines%20Meet%20New%20Light;Rebuilder%20%7C%20Optimist%20%7C%20Loop-Starter;The%20World%20Refreshes%20Its%20Cache;Morning%20Finds%20the%20Code%20Awake)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Systems%20Hum%20Beneath%20the%20Dawn;Rebuilder%20%7C%20Optimist%20%7C%20Loop-Starter;Morning%20Finds%20the%20Code%20Awake;Old%20Lines%20Meet%20New%20Light;Logs%20Clear%2C%20Sky%20Pale;Reboot%20Calm%2C%20Continue%20True;Processes%20Restart%2C%20Intent%20Restored;The%20World%20Refreshes%20Its%20Cache)](https://git.io/typing-svg)
 <!-- TYPING_ANIMATION_END -->
 
 </div>
