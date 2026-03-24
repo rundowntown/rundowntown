@@ -26,7 +26,7 @@
 <div align="center">
 
 <!-- TYPING_ANIMATION_START -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Wanderer%20%7C%20Maker%20%7C%20Frontier-Mind;The%20Frontier%20Hums%20Softly;Every%20Ember%20Remembers;Data%20Moves%20Through%20Dreams;Still%20Ridin%20Still%20Dreamin;Stars%20Whisper%20of%20Code;Silence%20Carries%20Its%20Weight;Fire%20Low%2C%20Mind%20High)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=The%20Frontier%20Hums%20Softly;Data%20Moves%20Through%20Dreams;Still%20Ridin%20Still%20Dreamin;Wanderer%20%7C%20Maker%20%7C%20Frontier-Mind;Fire%20Low%2C%20Mind%20High;Every%20Ember%20Remembers;Silence%20Carries%20Its%20Weight;Stars%20Whisper%20of%20Code)](https://git.io/typing-svg)
 <!-- TYPING_ANIMATION_END -->
 
 </div>
