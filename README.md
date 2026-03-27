@@ -26,7 +26,7 @@
 <div align="center">
 
 <!-- TYPING_ANIMATION_START -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Hello%20World%2C%20Again;Bootstrapped%20%7C%20Builder%20%7C%20Dawn-Seeker;The%20Day%20Compiles%20Clean;A%20New%20Loop%20Begins;Tools%20Ready%20%7C%20Sky%20Clear;First%20Light%2C%20Fresh%20Build;Input%20Set%2C%20Output%20Unknown;Systems%20Wake%2C%20Dust%20Lifts)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=The%20Day%20Compiles%20Clean;Systems%20Wake%2C%20Dust%20Lifts;First%20Light%2C%20Fresh%20Build;Hello%20World%2C%20Again;A%20New%20Loop%20Begins;Bootstrapped%20%7C%20Builder%20%7C%20Dawn-Seeker;Tools%20Ready%20%7C%20Sky%20Clear;Input%20Set%2C%20Output%20Unknown)](https://git.io/typing-svg)
 <!-- TYPING_ANIMATION_END -->
 
 </div>
