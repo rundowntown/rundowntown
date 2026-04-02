@@ -24,10 +24,11 @@
 <img width="600" src="https://capsule-render.vercel.app/api?type=rect&color=0:3B5998,50:2E4057,100:1B4332&height=2" />
 <!-- DIVIDER_2_END -->
 
+<br>
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rundowntown)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-forcade/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:forcade.analytics@gmail.com)
-
 <!-- DIVIDER_3_START -->
 <div align="center">
 <img width="400" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B4332,50:2E4057,100:3B5998&height=2" />
