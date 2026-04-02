@@ -1,37 +1,36 @@
-<!-- Western/Cowboy Theme - Auto-updating time-based themes -->
+<!-- Jungle Theme - Auto-updating time-based themes -->
 
 <!-- TIME_THEME_START -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,50:2E4057,100:3B5998&height=200&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:020D02,50:0B3D0B,100:1B4332&height=200&section=header)
 <!-- TIME_THEME_END -->
-
-<!-- DIVIDER_1_START -->
-<img width="600" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B4332,50:2E4057,100:3B5998&height=2" />
-<!-- DIVIDER_1_END -->
 
 <div align="center">
 
 <!-- TYPING_ANIMATION_START -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&duration=3000&pause=1500&color=52B788&center=true&vCenter=true&multiline=false&width=500&height=60&lines=overgrown+path;patience+outlasts;blue+light+on+stone)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&duration=3000&pause=1500&color=52B788&center=true&vCenter=true&multiline=false&width=500&height=60&lines=something+always+watches;the+long+green+silence;roots+move+below)](https://git.io/typing-svg)
 <!-- TYPING_ANIMATION_END -->
 
-</div>
+<!-- DIVIDER_1_START -->
+<img width="600" src="https://capsule-render.vercel.app/api?type=rect&color=0:020D02,50:0B3D0B,100:1B4332&height=2" />
+<!-- DIVIDER_1_END -->
+
+<br>
+
+<a href="https://github.com/rundowntown">
+  <img width="520" src="https://streak-stats.demolab.com?user=rundowntown&background=0D1117&ring=52B788&fire=FFD700&currStreakLabel=95D5B2&sideLabels=95D5B2&currStreakNum=52B788&sideNums=52B788&dates=2D6A4F&border=1B4332" />
+</a>
 
 <!-- DIVIDER_2_START -->
-<img width="600" src="https://capsule-render.vercel.app/api?type=rect&color=0:3B5998,50:2E4057,100:1B4332&height=2" />
+<img width="600" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B4332,50:0B3D0B,100:020D02&height=2" />
 <!-- DIVIDER_2_END -->
-
-<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rundowntown)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-forcade/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:forcade.analytics@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=rundowntown&color=cd853f&style=flat-square&label=Trail+Visitors)
-![Account Age](https://img.shields.io/badge/Ridin'_Since-2021-8B4513?style=flat-square&labelColor=2F4F4F&logo=github)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rundowntown&query=$.public_repos&style=flat-square&color=DAA520&labelColor=2F4F4F&label=Camps+Built&logo=github)
 <!-- DIVIDER_3_START -->
 <div align="center">
-<img width="400" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B4332,50:2E4057,100:3B5998&height=2" />
+<img width="400" src="https://capsule-render.vercel.app/api?type=rect&color=0:020D02,50:0B3D0B,100:1B4332&height=2" />
 </div>
 <!-- DIVIDER_3_END -->
 
@@ -53,8 +52,7 @@
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 <!-- FOOTER_WAVE_START -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,50:2E4057,100:3B5998&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:020D02,50:0B3D0B,100:1B4332&height=120&section=footer)
 <!-- FOOTER_WAVE_END -->
 
 </div>
-
