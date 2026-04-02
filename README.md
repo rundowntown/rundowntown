@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- TYPING_ANIMATION_START -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&duration=3000&pause=1500&color=52B788&center=true&vCenter=true&multiline=false&width=500&height=60&lines=the+canopy+wakes;the+river+catches+dawn;warm+stone+underfoot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&duration=3000&pause=1500&color=52B788&center=true&vCenter=true&multiline=false&width=500&height=60&lines=morning+finds+the+ruins;warm+stone+underfoot;first+light+through+leaves)](https://git.io/typing-svg)
 <!-- TYPING_ANIMATION_END -->
 
 <!-- DIVIDER_1_START -->
