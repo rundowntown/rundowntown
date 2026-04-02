@@ -1,38 +1,23 @@
 <!-- Western/Cowboy Theme - Auto-updating time-based themes -->
 
 <!-- TIME_THEME_START -->
-
-![Early Morning Banner](https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:6A5ACD&height=240&section=header&text=%E2%80%83rundowntown%20✦&fontSize=90&fontColor=E6E6FA&fontAlignY=38&desc=Before%20Dawn%2C%20the%20World%20Waits.&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
-
-<div align="center">
-
-![Time Badge](https://img.shields.io/badge/🌃_PRE--DAWN-Before_the_Light-483D8B?style=for-the-badge&labelColor=191970)
-![Current Time](https://img.shields.io/badge/⏰_Time-3am--5am-6A5ACD?style=for-the-badge&labelColor=2F2F4F)
-
-<img width="300" src="https://capsule-render.vercel.app/api?type=rect&color=0:191970,50:483D8B,100:6A5ACD&height=3" />
-
-### *The quietest hour, dawn's just a promise*
-
-🌌 Darkness holds strong • ⭐ Last of the night watch • 🌅 Horizon hints at change
-
-</div>
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,50:2E4057,100:3B5998&height=200&section=header)
 <!-- TIME_THEME_END -->
 
 <!-- DIVIDER_1_START -->
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:191970,50:483D8B,100:6A5ACD&height=3)
+<img width="600" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B4332,50:2E4057,100:3B5998&height=2" />
 <!-- DIVIDER_1_END -->
 
 <div align="center">
 
 <!-- TYPING_ANIMATION_START -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Morning%20Finds%20the%20Code%20Awake;Logs%20Clear%2C%20Sky%20Pale;Processes%20Restart%2C%20Intent%20Restored;Rebuilder%20%7C%20Optimist%20%7C%20Loop-Starter;Systems%20Hum%20Beneath%20the%20Dawn;The%20World%20Refreshes%20Its%20Cache;Old%20Lines%20Meet%20New%20Light;Reboot%20Calm%2C%20Continue%20True)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&duration=3000&pause=1500&color=52B788&center=true&vCenter=true&multiline=false&width=500&height=60&lines=overgrown+path;patience+outlasts;blue+light+on+stone)](https://git.io/typing-svg)
 <!-- TYPING_ANIMATION_END -->
 
 </div>
 
 <!-- DIVIDER_2_START -->
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,50:483D8B,100:191970&height=3)
+<img width="600" src="https://capsule-render.vercel.app/api?type=rect&color=0:3B5998,50:2E4057,100:1B4332&height=2" />
 <!-- DIVIDER_2_END -->
 
 <div align="center">
@@ -46,7 +31,7 @@
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rundowntown&query=$.public_repos&style=flat-square&color=DAA520&labelColor=2F4F4F&label=Camps+Built&logo=github)
 <!-- DIVIDER_3_START -->
 <div align="center">
-<img width="400" src="https://capsule-render.vercel.app/api?type=rect&color=0:191970,50:483D8B,100:6A5ACD&height=2" />
+<img width="400" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B4332,50:2E4057,100:3B5998&height=2" />
 </div>
 <!-- DIVIDER_3_END -->
 
@@ -68,7 +53,7 @@
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 <!-- FOOTER_WAVE_START -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:6A5ACD&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,50:2E4057,100:3B5998&height=120&section=footer)
 <!-- FOOTER_WAVE_END -->
 
 </div>
