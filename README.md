@@ -14,7 +14,7 @@
 <img width="600" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B4332,50:2E4057,100:3B5998&height=2" />
 <!-- DIVIDER_1_END -->
 
-<br>
+<br><br>
 
 <a href="https://github.com/rundowntown">
   <img width="520" src="https://streak-stats.demolab.com?user=rundowntown&background=0D1117&ring=52B788&fire=FFD700&currStreakLabel=95D5B2&sideLabels=95D5B2&currStreakNum=52B788&sideNums=52B788&dates=2D6A4F&border=1B4332" />
@@ -24,7 +24,7 @@
 <img width="600" src="https://capsule-render.vercel.app/api?type=rect&color=0:3B5998,50:2E4057,100:1B4332&height=2" />
 <!-- DIVIDER_2_END -->
 
-<br>
+<br><br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rundowntown)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-forcade/)
