@@ -1,11 +1,9 @@
-name: Update Time-Based Western Theme
+name: Update Jungle Theme Colors
 
 on:
   schedule:
-    # Runs every hour on the hour
     - cron: '0 * * * *'
-  
-  workflow_dispatch: # Can also trigger manually
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,453 +11,244 @@ permissions:
 jobs:
   update-theme:
     runs-on: ubuntu-latest
-    
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-        
+      - uses: actions/checkout@v4
+
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
-          
-      - name: Install pytz for timezone support
+          python-version: '3.11'
+
+      - name: Install dependencies
         run: pip install pytz
-          
-      - name: Update README with current time theme
+
+      - name: Update theme colors
         run: |
           python - <<'EOF'
           import re
+          import random
           from datetime import datetime
           import pytz
-          import random
-          import urllib.parse
 
-          # Get current EST/EDT hour (Eastern Time)
-          eastern = pytz.timezone('US/Eastern')
-          current_time = datetime.now(eastern)
-          current_hour = current_time.hour
-          
-          # Define typing animation phrases for each time period (3 phrases each)
-          typing_phrases = {
-              "SUNRISE": [
-                  "First Light, Fresh Build",
-                  "Systems Wake, Dust Lifts",
-                  "Bootstrapped | Builder | Dawn-Seeker",
-                  "The Day Compiles Clean",
-                  "Tools Ready | Sky Clear",
-                  "Input Set, Output Unknown",
-                  "A New Loop Begins",
-                  "Hello World, Again"
-              ],
-              "MORNING": [
-                  "Maker | Tinkerer | Trailblazer",
-                  "Builder | Breaker | Dream-Fixer",
-                  "Maker | Architect | Foundation-Layer",
-                  "Logic Lines, Simple Purpose",
-                  "Structure Grows, Silence Holds",
-                  "Syntax Settles Like Sand",
-                  "The Trail Connects Like Wires",
-                  "Systems Hum Toward Noon"
-              ],
-              "MIDDAY": [
-                  "Circuits Never Sleep",
-                  "Still Hands, Moving Thought",
-                  "Current Flows, Dust Rises",
-                  "Developer | Craftsman | Problem Solver",
-                  "The Frontier Hums Low",
-                  "Data Rides the Heat",
-                  "Steady Pulse, Endless Code",
-                  "The Range Listens Back"
-              ],
-              "LATE_AFTERNOON": [
-                  "Ain't My First Bug Rodeo",
-                  "No Bug Too Wild",
-                  "The Wolves Know the Deadline",
-                  "Fixer | Wrangler | Deadline Whisperer",
-                  "Breakpoints Set, Calm Under Heat",
-                  "Dust Rises, Focus Holds",
-                  "Quiet Pressure, Honest Fix",
-                  "Every Patch Earned Twice"
-              ],
-              "SUNSET": [
-                  "Campfire Commits and Quiet Logs",
-                  "The Build Holds Through Dusk",
-                  "Thinker | Editor | Pattern-Finder",
-                  "Save Early | Sleep Late",
-                  "The Horizon Stores the Version",
-                  "Lines Written, Errors Forgiven",
-                  "Code Cools as Light Fades",
-                  "Another Day, Another Merge"
-              ],
-              "DUSK": [
-                  "Campfire Reflections, Commit Confessions",
-                  "Firelight Flickers, Thoughts Wander",
-                  "Shared Warmth, Shared Repos",
-                  "Storyteller | Debugger | Signal-Keeper",
-                  "Sparks Rise Like Signals",
-                  "Quiet Voices | Open Channels",
-                  "The Night Feels Honest",
-                  "Wood Crackles, Circuits Sleep"
-              ],
-              "MIDNIGHT": [
-                  "Engineer of the Open Range",
-                  "The Frontier Sleeps Light",
-                  "The Mind Rides Alone",
-                  "Engineer | Cartographer | System Dreamer",
-                  "Stars Above, Systems Below",
-                  "Quiet World, Steady Heart",
-                  "The Moon Marks the Hours",
-                  "Stillness Builds Without Witness"
-              ],
-              "LATE_NIGHT": [
-                  "Every Ember Remembers",
-                  "The Frontier Hums Softly",
-                  "Fire Low, Mind High",
-                  "Wanderer | Maker | Frontier-Mind",
-                  "Still Ridin Still Dreamin",
-                  "Silence Carries Its Weight",
-                  "Stars Whisper of Code",
-                  "Data Moves Through Dreams"
-              ],
-              "EARLY_MORNING": [
-                  "Logs Clear, Sky Pale",
-                  "Processes Restart, Intent Restored",
-                  "Rebuilder | Optimist | Loop-Starter",
-                  "Old Lines Meet New Light",
-                  "The World Refreshes Its Cache",
-                  "Reboot Calm, Continue True",
-                  "Systems Hum Beneath the Dawn",
-                  "Morning Finds the Code Awake"
-              ]
-          }
-          
-          # Define tagline options for each time period
-          taglines = {
-              "SUNRISE": [
-                  "Rise. Ride. Begin.",
-                  "First Light. New Trail.",
-                  "The Day Awakes. So Do We.",
-                  "Where Dawn Meets Dust."
-              ],
-              "MORNING": [
-                  "Boots Down. Spirits High.",
-                  "The Trail Calls. We Answer.",
-                  "Strong Coffee. Open Road.",
-                  "Saddled and Steady."
-              ],
-              "MIDDAY": [
-                  "Noon Sun. Clear Path.",
-                  "Keep the Pace. Hold the Line.",
-                  "The Work's in the Ride.",
-                  "Blazing Trails Under Open Sky."
-              ],
-              "LATE_AFTERNOON": [
-                  "Heat's High. Keep Ridin'.",
-                  "Dust Rises. Spirits Don't.",
-                  "The Long Ride Tests All.",
-                  "Hold Fast. Press On."
-              ],
-              "SUNSET": [
-                  "Sun Sets. Trail Rests.",
-                  "Another Ride, Well Ridden.",
-                  "Gold Sky, Quiet Pride.",
-                  "Day's End, Story Told."
-              ],
-              "DUSK": [
-                  "Lanterns Glow. Voices Fade.",
-                  "Camp's Warm. Sky Cool.",
-                  "Night Gathers Slow.",
-                  "Home by the Last Light."
-              ],
-              "MIDNIGHT": [
-                  "Stars Above. Silence Below.",
-                  "Still Night. Steady Heart.",
-                  "The Frontier Sleeps Light.",
-                  "Moon Watches All."
-              ],
-              "LATE_NIGHT": [
-                  "Only the Fire Still Moves.",
-                  "Whispers Across the Plain.",
-                  "The Night Holds Its Own.",
-                  "Dreams Ride in Shadow."
-              ],
-              "EARLY_MORNING": [
-                  "Before Dawn, the World Waits.",
-                  "Horizon Breathing Gold.",
-                  "The Quiet Before the Ride.",
-                  "Darkness Makes Room for Light."
-              ]
-          }
-          
-          # Define all 9 themes with matching footer waves and dividers
+          et = pytz.timezone('US/Eastern')
+          now = datetime.now(et)
+          hour = now.hour
+
+          # Each time period has its own unique phrases — no repeats across buckets
           themes = {
-              "SUNRISE": {
-                  "hours": range(5, 7),
-                  "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FF6347,100:FFD700&height=120&section=footer)",
-                  "divider": "![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:FF69B4,50:FF6347,100:FFD700&height=3)",
-                  "content_template": '''![Sunrise Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FF6347,100:FFD700&height=240&section=header&text=%E2%80%83rundowntown%20☀️&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc={tagline}&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
-
-          <div align="center">
-
-          ![Time Badge](https://img.shields.io/badge/🌅_SUNRISE-First_Light-FF6347?style=for-the-badge&labelColor=8B4513)
-          ![Current Time](https://img.shields.io/badge/⏰_Time-5am--7am-FFD700?style=for-the-badge&labelColor=D2691E)
-
-          <img width="300" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF69B4,50:FF6347,100:FFD700&height=3" />
-
-          ### *First light breaks, another day to ride*
-
-          🌄 Dawn's first glow • 🐓 Rooster's callin' • ⛺ Camp's stirrin' to life
-
-          </div>'''
+              'SUNRISE': {
+                  'hours': range(5, 7),
+                  'gradient': '0:FF6B35,50:E8A317,100:2D6A4F',
+                  'phrases': [
+                      "first light through leaves",
+                      "the canopy wakes",
+                      "gold on wet stone",
+                      "mist lifts slowly",
+                      "morning finds the ruins",
+                      "dew on everything",
+                      "the river catches dawn",
+                      "warm stone underfoot",
+                  ],
               },
-              "MORNING": {
-                  "hours": range(7, 10),
-                  "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,50:FFB347,100:FDD835&height=120&section=footer)",
-                  "divider": "![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB347,100:FDD835&height=3)",
-                  "content_template": '''![Morning Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,50:FFB347,100:FDD835&height=240&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=2&fontAlignY=38&desc={tagline}&descSize=28&descAlignY=58&animation=scaleIn)
-
-          <div align="center">
-
-          ![Time Badge](https://img.shields.io/badge/☕_MORNING-Trail_Starts-FFA500?style=for-the-badge&labelColor=8B4513)
-          ![Current Time](https://img.shields.io/badge/⏰_Time-7am--10am-FFB347?style=for-the-badge&labelColor=A0522D)
-
-          <img width="300" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB347,100:FDD835&height=3" />
-
-          ### *Coffee's hot, horses saddled, let's ride*
-
-          ☕ Fresh brew ready • 🏜️ Trail's callin' • 🐎 Saddle up time
-
-          </div>'''
+              'MORNING': {
+                  'hours': range(7, 10),
+                  'gradient': '0:40916C,50:52B788,100:95D5B2',
+                  'phrases': [
+                      "fern and shadow",
+                      "the undergrowth hums",
+                      "green cathedral",
+                      "roots drink deep",
+                      "sunlight on moss",
+                      "the trail opens",
+                      "alive beneath the canopy",
+                      "every leaf turns",
+                  ],
               },
-              "MIDDAY": {
-                  "hours": range(10, 13),
-                  "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFC107,100:FFEB3B&height=120&section=footer)",
-                  "divider": "![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:FFC107,100:FFEB3B&height=3)",
-                  "content_template": '''![Midday Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFC107,100:FFEB3B&height=240&section=header&text=%E2%80%83rundowntown%20☀️&fontSize=90&fontColor=8B4513&stroke=000000&strokeWidth=1&fontAlignY=38&desc={tagline}&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
-
-          <div align="center">
-
-          ![Time Badge](https://img.shields.io/badge/☀️_MIDDAY-Sun's_Risin'-FFD700?style=for-the-badge&labelColor=8B4513)
-          ![Current Time](https://img.shields.io/badge/⏰_Time-10am--1pm-FFC107?style=for-the-badge&labelColor=654321)
-
-          <img width="300" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:FFC107,100:FFEB3B&height=3" />
-
-          ### *Sun climbs high, desert heat begins*
-
-          ☀️ Heat's buildin' • 🌵 Wide open plains • 💪 Ridin' strong
-
-          </div>'''
+              'MIDDAY': {
+                  'hours': range(10, 13),
+                  'gradient': '0:2D6A4F,50:52B788,100:FFD700',
+                  'phrases': [
+                      "light finds a way",
+                      "the canopy glows",
+                      "bright water over stone",
+                      "heat rises from the path",
+                      "sun through the highest leaves",
+                      "the river runs clear",
+                      "shadows shrink to nothing",
+                      "gold pours down",
+                  ],
               },
-              "LATE_AFTERNOON": {
-                  "hours": range(13, 17),
-                  "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF7F00,100:DAA520&height=120&section=footer)",
-                  "divider": "![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FF7F00,100:DAA520&height=3)",
-                  "content_template": '''![Late Afternoon Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF7F00,100:DAA520&height=240&section=header&text=%E2%80%83rundowntown%20☀️&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc={tagline}&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
-
-          <div align="center">
-
-          ![Time Badge](https://img.shields.io/badge/🔥_LATE_AFTERNOON-Hottest_Hours-FF8C00?style=for-the-badge&labelColor=8B4513)
-          ![Current Time](https://img.shields.io/badge/⏰_Time-1pm--5pm-DAA520?style=for-the-badge&labelColor=654321)
-
-          <img width="300" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,50:FF7F00,100:DAA520&height=3" />
-
-          ### *The Long Ride Tests All*
-
-          ☀️ Sun's blazin' overhead • 🌵 Peak heat • ⚡ High stakes
-
-          </div>'''
+              'LATE_AFTERNOON': {
+                  'hours': range(13, 17),
+                  'gradient': '0:8B6914,50:D4A017,100:2D6A4F',
+                  'phrases': [
+                      "amber through leaves",
+                      "the long walk back",
+                      "deeper in still",
+                      "sweat and stone",
+                      "thick air heavy green",
+                      "the jungle tests all",
+                      "slow heat fading",
+                      "ancient shade",
+                  ],
               },
-              "SUNSET": {
-                  "hours": range(17, 19),
-                  "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF6347,100:FF8C69&height=120&section=footer)",
-                  "divider": "![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:FF4500,50:FF6347,100:FF8C69&height=3)",
-                  "content_template": '''![Evening Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF6347,100:FF8C69&height=240&section=header&text=%E2%80%83rundowntown%20🌇&fontSize=90&fontColor=FFFFFF&stroke=8B4513&strokeWidth=1&fontAlignY=38&desc={tagline}&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
-
-          <div align="center">
-
-          ![Time Badge](https://img.shields.io/badge/🌇_SUNSET-Golden_Hour-FF4500?style=for-the-badge&labelColor=8B4513)
-          ![Current Time](https://img.shields.io/badge/⏰_Time-5pm--7pm-FF6347?style=for-the-badge&labelColor=A0522D)
-
-          <img width="300" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4500,50:FF6347,100:FF8C69&height=3" />
-
-          ### *Sky's burnin' red, another day conquered*
-
-          🌅 Horizon's glowin' • 🐎 Slowin' the pace • 🏜️ Long shadows fall
-
-          </div>'''
+              'SUNSET': {
+                  'hours': range(17, 19),
+                  'gradient': '0:FF4500,50:E68A00,100:1B4332',
+                  'phrases': [
+                      "the river burns gold",
+                      "last light on stone",
+                      "birds return to roost",
+                      "fire through the trees",
+                      "the sky lets go",
+                      "warm dark coming",
+                      "temple silhouette",
+                      "everything turns amber",
+                  ],
               },
-              "DUSK": {
-                  "hours": range(19, 21),
-                  "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=120&section=footer)",
-                  "divider": "![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:8B4513,50:A0522D,100:CD853F&height=3)",
-                  "content_template": '''![Dusk Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:CD853F&height=240&section=header&text=%E2%80%83rundowntown%20⛺&fontSize=90&fontColor=F5F5DC&stroke=000000&strokeWidth=1&fontAlignY=38&desc={tagline}&descSize=28&descAlignY=58&descAlign=50&animation=scaleIn)
-
-          <div align="center">
-
-          ![Time Badge](https://img.shields.io/badge/🌆_DUSK-Day's_End-A0522D?style=for-the-badge&labelColor=654321)
-          ![Current Time](https://img.shields.io/badge/⏰_Time-7pm--9pm-CD853F?style=for-the-badge&labelColor=8B4513)
-
-          <img width="300" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B4513,50:A0522D,100:CD853F&height=3" />
-
-          ### *Headin' home before dark*
-
-          🌄 Last light fadin' • 🐎 Stable's in sight • 🏕️ Time to rest
-
-          </div>'''
+              'DUSK': {
+                  'hours': range(19, 21),
+                  'gradient': '0:2D6A4F,50:3B5998,100:4B0082',
+                  'phrases': [
+                      "firefly season",
+                      "purple mist settles",
+                      "the chorus begins",
+                      "night blooms open",
+                      "torchlight on vine",
+                      "twilight on the steps",
+                      "the shift between",
+                      "green fades to blue",
+                  ],
               },
-              "MIDNIGHT": {
-                  "hours": range(21, 24),
-                  "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=120&section=footer)",
-                  "divider": "![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,50:2F4F4F,100:696969&height=3)",
-                  "content_template": '''![Midnight Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:2F4F4F,100:696969&height=240&section=header&text=%E2%80%83rundowntown%20🌙&fontSize=90&fontColor=DAA520&fontAlignY=38&desc={tagline}&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
-
-          <div align="center">
-
-          ![Time Badge](https://img.shields.io/badge/🌙_MIDNIGHT-Deep_Night-2F4F4F?style=for-the-badge&labelColor=1C1C1C)
-          ![Current Time](https://img.shields.io/badge/⏰_Time-9pm--12am-696969?style=for-the-badge&labelColor=000000)
-
-          <img width="300" src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,50:2F4F4F,100:696969&height=3" />
-
-          ### *The night's dark, but the stars guide true*
-
-          🌙 Moon's high • 🔥 Campfire glowin' • ⭐ Stars light the way
-
-          </div>'''
+              'MIDNIGHT': {
+                  'hours': range(21, 24),
+                  'gradient': '0:0A1F0A,50:1B4332,100:2D6A4F',
+                  'phrases': [
+                      "the ruins remember",
+                      "moonlight on the path",
+                      "still water runs",
+                      "stone holds warmth",
+                      "the old growth knows",
+                      "quiet holds everything",
+                      "carved by time",
+                      "silver on dark green",
+                  ],
               },
-              "LATE_NIGHT": {
-                  "hours": range(0, 3),
-                  "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:2F4F4F&height=120&section=footer)",
-                  "divider": "![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:191970,100:2F4F4F&height=3)",
-                  "content_template": '''![Late Night Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:2F4F4F&height=220&section=header&text=rundowntown&fontSize=90&fontColor=FFFFFF&stroke=4169E1&strokeWidth=2&fontAlignY=42&desc={tagline}&descSize=28&descAlignY=62&animation=twinkling)
-
-          <div align="center">
-
-          ![Time Badge](https://img.shields.io/badge/🌌_LATE_NIGHT-Dead_of_Night-191970?style=for-the-badge&labelColor=000000)
-          ![Current Time](https://img.shields.io/badge/⏰_Time-12am--3am-2F4F4F?style=for-the-badge&labelColor=0C0C0C)
-
-          <img width="300" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:191970,100:2F4F4F&height=3" />
-
-          ### *Only the coyotes and night riders awake*
-
-          🦉 Silence reigns • 🌌 Stars blanket the sky • 🔥 Embers still warm
-
-          </div>'''
+              'LATE_NIGHT': {
+                  'hours': range(0, 3),
+                  'gradient': '0:020D02,50:0B3D0B,100:1B4332',
+                  'phrases': [
+                      "something always watches",
+                      "the deepest green",
+                      "roots move below",
+                      "bioluminescence",
+                      "rain on stone",
+                      "the long green silence",
+                      "eyes in the dark",
+                      "moss covers everything",
+                  ],
               },
-              "EARLY_MORNING": {
-                  "hours": range(3, 5),
-                  "footer": "![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:6A5ACD&height=120&section=footer)",
-                  "divider": "![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:191970,50:483D8B,100:6A5ACD&height=3)",
-                  "content_template": '''![Early Morning Banner](https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:6A5ACD&height=240&section=header&text=%E2%80%83rundowntown%20✦&fontSize=90&fontColor=E6E6FA&fontAlignY=38&desc={tagline}&descSize=28&descAlignY=58&descAlign=50&animation=fadeIn)
-
-          <div align="center">
-
-          ![Time Badge](https://img.shields.io/badge/🌃_PRE--DAWN-Before_the_Light-483D8B?style=for-the-badge&labelColor=191970)
-          ![Current Time](https://img.shields.io/badge/⏰_Time-3am--5am-6A5ACD?style=for-the-badge&labelColor=2F2F4F)
-
-          <img width="300" src="https://capsule-render.vercel.app/api?type=rect&color=0:191970,50:483D8B,100:6A5ACD&height=3" />
-
-          ### *The quietest hour, dawn's just a promise*
-
-          🌌 Darkness holds strong • ⭐ Last of the night watch • 🌅 Horizon hints at change
-
-          </div>'''
-              }
+              'EARLY_MORNING': {
+                  'hours': range(3, 5),
+                  'gradient': '0:1B4332,50:2E4057,100:3B5998',
+                  'phrases': [
+                      "mist before dawn",
+                      "the quietest hour",
+                      "blue light on stone",
+                      "overgrown path",
+                      "slow water",
+                      "the canopy breathes",
+                      "patience outlasts",
+                      "vine over ruin",
+                  ],
+              },
           }
-          
-          # Determine current theme and select random tagline
-          current_theme_name = None
-          current_theme_data = None
-          
-          for theme_name, theme_data in themes.items():
-              if current_hour in theme_data["hours"]:
-                  current_theme_name = theme_name
-                  current_theme_data = theme_data
+
+          # Find current theme
+          gradient = '0:1B4332,50:2D6A4F,100:52B788'
+          theme_name = 'UNKNOWN'
+          phrases = []
+          for name, theme in themes.items():
+              if hour in theme['hours']:
+                  gradient = theme['gradient']
+                  theme_name = name
+                  phrases = theme['phrases']
                   break
-          
-          # Get random tagline for banner
-          random_tagline = random.choice(taglines[current_theme_name])
-          encoded_tagline = urllib.parse.quote(random_tagline)
-          
-          # Get ALL typing phrases for this time period and shuffle them
-          all_typing_phrases = typing_phrases[current_theme_name].copy()
-          random.shuffle(all_typing_phrases)
-          encoded_typing = ";".join([urllib.parse.quote(phrase) for phrase in all_typing_phrases])
-          
-          # Build the typing animation URL with all phrases
-          typing_animation = f"[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&multiline=false&width=700&height=100&lines={encoded_typing})](https://git.io/typing-svg)"
-          
-          # Build the content with the random tagline
-          current_theme = current_theme_data["content_template"].format(tagline=encoded_tagline)
-          current_footer = current_theme_data["footer"]
-          current_divider = current_theme_data["divider"]
-          
-          # Read README
+
+          # Reverse gradient for divider 2
+          colors = [p.split(':')[1] for p in gradient.split(',')]
+          rev_gradient = f"0:{colors[2]},50:{colors[1]},100:{colors[0]}"
+
+          # Pick 3 random phrases from the bucket
+          random.shuffle(phrases)
+          selected = phrases[:3]
+          typing_lines = ';'.join(p.replace(' ', '+') for p in selected)
+          typing_url = (
+              "https://readme-typing-svg.herokuapp.com?font=Courier+Prime"
+              f"&size=22&duration=3000&pause=1500&color=52B788&center=true"
+              f"&vCenter=true&multiline=false&width=500&height=60&lines={typing_lines}"
+          )
+
           with open('README.md', 'r', encoding='utf-8') as f:
-              readme_content = f.read()
-          
-          # Replace the time theme section
-          theme_pattern = r'<!-- TIME_THEME_START -->.*?<!-- TIME_THEME_END -->'
-          theme_replacement = f"<!-- TIME_THEME_START -->\n\n{current_theme}\n\n<!-- TIME_THEME_END -->"
-          updated_content = re.sub(theme_pattern, theme_replacement, readme_content, flags=re.DOTALL)
-          
-          # Replace the footer wave section
-          footer_pattern = r'<!-- FOOTER_WAVE_START -->.*?<!-- FOOTER_WAVE_END -->'
-          footer_replacement = f"<!-- FOOTER_WAVE_START -->\n{current_footer}\n<!-- FOOTER_WAVE_END -->"
-          updated_content = re.sub(footer_pattern, footer_replacement, updated_content, flags=re.DOTALL)
-          
-          # Replace the typing animation section
-          typing_pattern = r'<!-- TYPING_ANIMATION_START -->.*?<!-- TYPING_ANIMATION_END -->'
-          typing_replacement = f"<!-- TYPING_ANIMATION_START -->\n{typing_animation}\n<!-- TYPING_ANIMATION_END -->"
-          updated_content = re.sub(typing_pattern, typing_replacement, updated_content, flags=re.DOTALL)
-          
-          # For divider 2, reverse the gradient direction
-          # Extract colors from current divider and reverse them
-          import re as regex
-          color_match = regex.search(r'color=0:([A-F0-9]+),50:([A-F0-9]+),100:([A-F0-9]+)', current_divider)
-          if color_match:
-              color1, color2, color3 = color_match.groups()
-              # Reverse the gradient
-              divider2 = current_divider.replace(f'color=0:{color1},50:{color2},100:{color3}', f'color=0:{color3},50:{color2},100:{color1}')
-          else:
-              divider2 = current_divider
-          
-          # Replace divider 1 (top)
-          divider1_pattern = r'<!-- DIVIDER_1_START -->.*?<!-- DIVIDER_1_END -->'
-          divider1_replacement = f"<!-- DIVIDER_1_START -->\n{current_divider}\n<!-- DIVIDER_1_END -->"
-          updated_content = re.sub(divider1_pattern, divider1_replacement, updated_content, flags=re.DOTALL)
-          
-          # Replace divider 2 (bottom - complementary/reversed)
-          divider2_pattern = r'<!-- DIVIDER_2_START -->.*?<!-- DIVIDER_2_END -->'
-          divider2_replacement = f"<!-- DIVIDER_2_START -->\n{divider2}\n<!-- DIVIDER_2_END -->"
-          updated_content = re.sub(divider2_pattern, divider2_replacement, updated_content, flags=re.DOTALL)
-          
-          # Replace divider 3 (short divider between stats and tech) - make it constrained width
-          # Extract just the color part from current_divider and create short version
-          color_match_div3 = regex.search(r'color=([^&]+)', current_divider)
-          if color_match_div3:
-              color_value = color_match_div3.group(1)
-              divider3_short = f'<div align="center">\n<img width="400" src="https://capsule-render.vercel.app/api?type=rect&color={color_value}&height=2" />\n</div>'
-          else:
-              divider3_short = '<div align="center">\n<img width="400" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B4513,50:D2691E,100:DEB887&height=2" />\n</div>'
-          
-          divider3_pattern = r'<!-- DIVIDER_3_START -->.*?<!-- DIVIDER_3_END -->'
-          divider3_replacement = f"<!-- DIVIDER_3_START -->\n{divider3_short}\n<!-- DIVIDER_3_END -->"
-          updated_content = re.sub(divider3_pattern, divider3_replacement, updated_content, flags=re.DOTALL)
-          
-          # Write back to README
+              content = f.read()
+
+          # Header wave (gradient only, no text)
+          header = f'![Header](https://capsule-render.vercel.app/api?type=waving&color={gradient}&height=200&section=header)'
+          content = re.sub(
+              r'<!-- TIME_THEME_START -->.*?<!-- TIME_THEME_END -->',
+              f'<!-- TIME_THEME_START -->\n{header}\n<!-- TIME_THEME_END -->',
+              content, flags=re.DOTALL
+          )
+
+          # Typing animation (shuffled phrases)
+          typing = f'[![Typing SVG]({typing_url})](https://git.io/typing-svg)'
+          content = re.sub(
+              r'<!-- TYPING_ANIMATION_START -->.*?<!-- TYPING_ANIMATION_END -->',
+              f'<!-- TYPING_ANIMATION_START -->\n{typing}\n<!-- TYPING_ANIMATION_END -->',
+              content, flags=re.DOTALL
+          )
+
+          # Divider 1
+          div1 = f'<img width="600" src="https://capsule-render.vercel.app/api?type=rect&color={gradient}&height=2" />'
+          content = re.sub(
+              r'<!-- DIVIDER_1_START -->.*?<!-- DIVIDER_1_END -->',
+              f'<!-- DIVIDER_1_START -->\n{div1}\n<!-- DIVIDER_1_END -->',
+              content, flags=re.DOTALL
+          )
+
+          # Divider 2 (reversed gradient)
+          div2 = f'<img width="600" src="https://capsule-render.vercel.app/api?type=rect&color={rev_gradient}&height=2" />'
+          content = re.sub(
+              r'<!-- DIVIDER_2_START -->.*?<!-- DIVIDER_2_END -->',
+              f'<!-- DIVIDER_2_START -->\n{div2}\n<!-- DIVIDER_2_END -->',
+              content, flags=re.DOTALL
+          )
+
+          # Divider 3 (short, between social links and tech stack)
+          div3 = f'<div align="center">\n<img width="400" src="https://capsule-render.vercel.app/api?type=rect&color={gradient}&height=2" />\n</div>'
+          content = re.sub(
+              r'<!-- DIVIDER_3_START -->.*?<!-- DIVIDER_3_END -->',
+              f'<!-- DIVIDER_3_START -->\n{div3}\n<!-- DIVIDER_3_END -->',
+              content, flags=re.DOTALL
+          )
+
+          # Footer wave (gradient only, no text)
+          footer = f'![Footer](https://capsule-render.vercel.app/api?type=waving&color={gradient}&height=120&section=footer)'
+          content = re.sub(
+              r'<!-- FOOTER_WAVE_START -->.*?<!-- FOOTER_WAVE_END -->',
+              f'<!-- FOOTER_WAVE_START -->\n{footer}\n<!-- FOOTER_WAVE_END -->',
+              content, flags=re.DOTALL
+          )
+
           with open('README.md', 'w', encoding='utf-8') as f:
-              f.write(updated_content)
-          
-          print(f"✅ Updated theme: {current_theme_name} at {current_time.strftime('%I:%M %p %Z')}")
-          print(f"🎲 Random banner tagline: '{random_tagline}'")
-          print(f"⌨️  Typing phrases (shuffled): {len(all_typing_phrases)} total")
+              f.write(content)
+
+          print(f"Updated: {theme_name} at {now.strftime('%I:%M %p %Z')}")
           EOF
-          
+
       - name: Commit and push if changed
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤠 Auto-update Western theme" && git push)
-
+          git diff --staged --quiet || git commit -m "🌿 Auto-update Jungle theme" && git push
