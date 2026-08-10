@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- TYPING_ANIMATION_START -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&duration=3000&pause=1500&color=52B788&center=true&vCenter=true&multiline=false&width=500&height=60&lines=green+cathedral;alive+beneath+the+canopy;the+undergrowth+hums)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&duration=3000&pause=1500&color=52B788&center=true&vCenter=true&multiline=false&width=500&height=60&lines=the+undergrowth+hums;the+trail+opens;green+cathedral)](https://git.io/typing-svg)
 <!-- TYPING_ANIMATION_END -->
 
 <!-- DIVIDER_1_START -->
