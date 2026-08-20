@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- TYPING_ANIMATION_START -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&duration=3000&pause=1500&color=52B788&center=true&vCenter=true&multiline=false&width=500&height=60&lines=stone+holds+warmth;still+water+runs;carved+by+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&duration=3000&pause=1500&color=52B788&center=true&vCenter=true&multiline=false&width=500&height=60&lines=carved+by+time;the+ruins+remember;quiet+holds+everything)](https://git.io/typing-svg)
 <!-- TYPING_ANIMATION_END -->
 
 <!-- DIVIDER_1_START -->
