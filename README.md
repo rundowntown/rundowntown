@@ -1,17 +1,17 @@
 <!-- Jungle Theme - Auto-updating time-based themes -->
 
 <!-- TIME_THEME_START -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:E68A00,100:1B4332&height=200&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A1F0A,50:1B4332,100:2D6A4F&height=200&section=header)
 <!-- TIME_THEME_END -->
 
 <div align="center">
 
 <!-- TYPING_ANIMATION_START -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&duration=3000&pause=1500&color=52B788&center=true&vCenter=true&multiline=false&width=500&height=60&lines=warm+dark+coming;everything+turns+amber;fire+through+the+trees)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&duration=3000&pause=1500&color=52B788&center=true&vCenter=true&multiline=false&width=500&height=60&lines=still+water+runs;the+old+growth+knows;silver+on+dark+green)](https://git.io/typing-svg)
 <!-- TYPING_ANIMATION_END -->
 
 <!-- DIVIDER_1_START -->
-<img width="600" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4500,50:E68A00,100:1B4332&height=2" />
+<img width="600" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1F0A,50:1B4332,100:2D6A4F&height=2" />
 <!-- DIVIDER_1_END -->
 
 <br><br>
@@ -21,7 +21,7 @@
 </a>
 
 <!-- DIVIDER_2_START -->
-<img width="600" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B4332,50:E68A00,100:FF4500&height=2" />
+<img width="600" src="https://capsule-render.vercel.app/api?type=rect&color=0:2D6A4F,50:1B4332,100:0A1F0A&height=2" />
 <!-- DIVIDER_2_END -->
 
 <br><br>
@@ -31,7 +31,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:forcade.analytics@gmail.com)
 <!-- DIVIDER_3_START -->
 <div align="center">
-<img width="400" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4500,50:E68A00,100:1B4332&height=2" />
+<img width="400" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1F0A,50:1B4332,100:2D6A4F&height=2" />
 </div>
 <!-- DIVIDER_3_END -->
 
@@ -51,7 +51,7 @@
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 <!-- FOOTER_WAVE_START -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:E68A00,100:1B4332&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0A1F0A,50:1B4332,100:2D6A4F&height=120&section=footer)
 <!-- FOOTER_WAVE_END -->
 
 </div>
